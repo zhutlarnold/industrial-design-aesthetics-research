@@ -1,0 +1,285 @@
+{
+  "accessed": "2026-10-05",
+  "selection": "six public related Skill entrypoints plus selected references and two executable source files; no upstream execution",
+  "sources": [
+    {
+      "url": "https://raw.githubusercontent.com/getburo/buro-free/86cd7e849bee7b04b159644afdb6a9abd0f4a7c8/LICENSE",
+      "sha256": "b5dff8c0c98aa17f7f4c38d05d8a563abad9ee7a3f3a8db8b469923d6fa4b314",
+      "bytes": 1176,
+      "repository": "getburo/buro-free",
+      "commit": "86cd7e849bee7b04b159644afdb6a9abd0f4a7c8",
+      "path": "LICENSE",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      }
+    },
+    {
+      "url": "https://raw.githubusercontent.com/getburo/buro-free/86cd7e849bee7b04b159644afdb6a9abd0f4a7c8/skills/industrial-designer/SKILL.md",
+      "sha256": "e8b37bc51273016cf290a8d97eff147fcc8432ff16fa453126d84204203140a9",
+      "bytes": 12497,
+      "repository": "getburo/buro-free",
+      "commit": "86cd7e849bee7b04b159644afdb6a9abd0f4a7c8",
+      "path": "skills/industrial-designer/SKILL.md",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      }
+    },
+    {
+      "url": "https://raw.githubusercontent.com/getburo/buro-free/86cd7e849bee7b04b159644afdb6a9abd0f4a7c8/skills/industrial-designer/references/canon.md",
+      "sha256": "ddd8b3b4d00b07394f1ee3a50bef6276d79a01f834894dacb2609af1c8ddfea2",
+      "bytes": 2552,
+      "repository": "getburo/buro-free",
+      "commit": "86cd7e849bee7b04b159644afdb6a9abd0f4a7c8",
+      "path": "skills/industrial-designer/references/canon.md",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      }
+    },
+    {
+      "url": "https://raw.githubusercontent.com/24kchengYe/human-skill-tree/be589ddd04c945cd64642702ed7f6cfbd2466e03/LICENSE",
+      "sha256": "3fb8cda5863896f2168db32abbdacdb08d46540bcfc19a0a79eb48e7cee50668",
+      "bytes": 1134,
+      "repository": "24kchengYe/human-skill-tree",
+      "commit": "be589ddd04c945cd64642702ed7f6cfbd2466e03",
+      "path": "LICENSE",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      }
+    },
+    {
+      "url": "https://raw.githubusercontent.com/24kchengYe/human-skill-tree/be589ddd04c945cd64642702ed7f6cfbd2466e03/app/content/skills/02-arts-design-tutor/SKILL.md",
+      "sha256": "e57de92344c2562727a596f7ab4a126e0a83c156719cc94d560f43c054be577e",
+      "bytes": 13190,
+      "repository": "24kchengYe/human-skill-tree",
+      "commit": "be589ddd04c945cd64642702ed7f6cfbd2466e03",
+      "path": "app/content/skills/02-arts-design-tutor/SKILL.md",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      }
+    },
+    {
+      "url": "https://raw.githubusercontent.com/anthropics/knowledge-work-plugins/8444efcd48f7012f09797778a36a33e73d0861f4/LICENSE",
+      "sha256": "a6946284993aeec75c7d75906064b66210c46051e562077efb30eb6dcfe72e26",
+      "bytes": 11607,
+      "repository": "anthropics/knowledge-work-plugins",
+      "commit": "8444efcd48f7012f09797778a36a33e73d0861f4",
+      "path": "LICENSE",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      }
+    },
+    {
+      "url": "https://raw.githubusercontent.com/anthropics/knowledge-work-plugins/8444efcd48f7012f09797778a36a33e73d0861f4/design/skills/design-critique/SKILL.md",
+      "sha256": "3a4f260eb9f60b431782bf6d90f22afb480c0c67860267a032df58a3e1bd19cd",
+      "bytes": 3923,
+      "repository": "anthropics/knowledge-work-plugins",
+      "commit": "8444efcd48f7012f09797778a36a33e73d0861f4",
+      "path": "design/skills/design-critique/SKILL.md",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      }
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/be2a406907dbc61b73e6827ded415c96139d13a2/content-research-writer/SKILL.md",
+      "sha256": "27eb5c1a0a88a9c1c64f6fcd9c28782e6a6e70d5da43233c4e99ade946f74825",
+      "bytes": 14244,
+      "repository": "ComposioHQ/awesome-claude-skills",
+      "commit": "be2a406907dbc61b73e6827ded415c96139d13a2",
+      "path": "content-research-writer/SKILL.md",
+      "license": null
+    },
+    {
+      "repository": "truman-t3/industrial-design-portfolio-skill",
+      "commit": "653fbd3c4b070c72cbd21a3253aa9300940835d8",
+      "path": "SKILL.md",
+      "url": "https://raw.githubusercontent.com/truman-t3/industrial-design-portfolio-skill/653fbd3c4b070c72cbd21a3253aa9300940835d8/SKILL.md",
+      "bytes": 13094,
+      "sha256": "8cf489681423d9082bac3a068f75612055caa079d1cacc38e5d39021c5b22bf7",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      }
+    },
+    {
+      "repository": "truman-t3/industrial-design-portfolio-skill",
+      "commit": "653fbd3c4b070c72cbd21a3253aa9300940835d8",
+      "path": "references/industrial-design-evidence.md",
+      "url": "https://raw.githubusercontent.com/truman-t3/industrial-design-portfolio-skill/653fbd3c4b070c72cbd21a3253aa9300940835d8/references/industrial-design-evidence.md",
+      "bytes": 3618,
+      "sha256": "794ac5c102d6160a03bcbcba451688aa0c58b97a59c455d34b02abf7f908167c",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      }
+    },
+    {
+      "repository": "truman-t3/industrial-design-portfolio-skill",
+      "commit": "653fbd3c4b070c72cbd21a3253aa9300940835d8",
+      "path": "references/story-architecture.md",
+      "url": "https://raw.githubusercontent.com/truman-t3/industrial-design-portfolio-skill/653fbd3c4b070c72cbd21a3253aa9300940835d8/references/story-architecture.md",
+      "bytes": 3083,
+      "sha256": "7b4a7edba07ed50207063d91f4f7d832832ab7a520620bbadb331692e1f7508a",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      }
+    },
+    {
+      "repository": "truman-t3/industrial-design-portfolio-skill",
+      "commit": "653fbd3c4b070c72cbd21a3253aa9300940835d8",
+      "path": "references/checklist.md",
+      "url": "https://raw.githubusercontent.com/truman-t3/industrial-design-portfolio-skill/653fbd3c4b070c72cbd21a3253aa9300940835d8/references/checklist.md",
+      "bytes": 2184,
+      "sha256": "35bf2d649420d6526953cea7dc57314b2cd21f925fec1f8eba747962238e0a0f",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      }
+    },
+    {
+      "repository": "truman-t3/industrial-design-portfolio-skill",
+      "commit": "653fbd3c4b070c72cbd21a3253aa9300940835d8",
+      "path": "scripts/validate_portfolio.py",
+      "url": "https://raw.githubusercontent.com/truman-t3/industrial-design-portfolio-skill/653fbd3c4b070c72cbd21a3253aa9300940835d8/scripts/validate_portfolio.py",
+      "bytes": 7395,
+      "sha256": "4ddd2a2f478cb9d5ad21745d3e200996d77d080b60ee1a3926d30528f17163ca",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      }
+    },
+    {
+      "repository": "truman-t3/industrial-design-portfolio-skill",
+      "commit": "653fbd3c4b070c72cbd21a3253aa9300940835d8",
+      "path": "scripts/validate_manifest.py",
+      "url": "https://raw.githubusercontent.com/truman-t3/industrial-design-portfolio-skill/653fbd3c4b070c72cbd21a3253aa9300940835d8/scripts/validate_manifest.py",
+      "bytes": 7949,
+      "sha256": "44095cef3004d8397653f3015e76d39f425fe08877a58ff3a7bbd3f3f94dd3e7",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      }
+    },
+    {
+      "repository": "truman-t3/industrial-design-portfolio-skill",
+      "commit": "653fbd3c4b070c72cbd21a3253aa9300940835d8",
+      "path": "LICENSE",
+      "url": "https://raw.githubusercontent.com/truman-t3/industrial-design-portfolio-skill/653fbd3c4b070c72cbd21a3253aa9300940835d8/LICENSE",
+      "bytes": 1066,
+      "sha256": "36b098b9a5c2d386adca4044259fe2c5012d5f9be673242648b3d9d5ec8cd179",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      }
+    },
+    {
+      "repository": "shawnlix/claude-product-designer-skill",
+      "commit": "76c2b29194674a4dc936d44894dd14045ea6521b",
+      "path": "SKILL.md",
+      "url": "https://raw.githubusercontent.com/shawnlix/claude-product-designer-skill/76c2b29194674a4dc936d44894dd14045ea6521b/SKILL.md",
+      "bytes": 15338,
+      "sha256": "93748c512c1de31add31aeb092ede53b027cc1a747520f1e96d3376f4a019f84",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      }
+    },
+    {
+      "repository": "shawnlix/claude-product-designer-skill",
+      "commit": "76c2b29194674a4dc936d44894dd14045ea6521b",
+      "path": "references/heuristics.md",
+      "url": "https://raw.githubusercontent.com/shawnlix/claude-product-designer-skill/76c2b29194674a4dc936d44894dd14045ea6521b/references/heuristics.md",
+      "bytes": 9073,
+      "sha256": "cd9a3f7194214026a1e06c42beca3df4f7a6eb16eb1559ec36bb7de03a9b5347",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      }
+    },
+    {
+      "repository": "shawnlix/claude-product-designer-skill",
+      "commit": "76c2b29194674a4dc936d44894dd14045ea6521b",
+      "path": "assets/brief-template.md",
+      "url": "https://raw.githubusercontent.com/shawnlix/claude-product-designer-skill/76c2b29194674a4dc936d44894dd14045ea6521b/assets/brief-template.md",
+      "bytes": 3425,
+      "sha256": "2c3c60fcaefbb3b38a12611a80c9e9780fbae436d535013325ce7e971855a608",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      }
+    },
+    {
+      "repository": "shawnlix/claude-product-designer-skill",
+      "commit": "76c2b29194674a4dc936d44894dd14045ea6521b",
+      "path": "LICENSE",
+      "url": "https://raw.githubusercontent.com/shawnlix/claude-product-designer-skill/76c2b29194674a4dc936d44894dd14045ea6521b/LICENSE",
+      "bytes": 1065,
+      "sha256": "d4b98c434800ba1d584115c94ff35606b69a28b92b0a0b98dcd6858d7f0a7222",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      }
+    }
+  ]
+}

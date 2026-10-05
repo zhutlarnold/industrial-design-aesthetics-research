@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "updated": "2026-10-05",
+  "scope": "This delivery increment only; shared private project history remains the authoritative cross-column record.",
+  "cases": [
+    {
+      "id": "volvo-thors-hammer-headlight",
+      "analysis_id": "ida-volvo-ex90-20261005-v01",
+      "relation": "historical_topic_deepening",
+      "publication": "unknown"
+    },
+    {
+      "id": "philippe-starck-juicy-salif",
+      "analysis_id": "ida-juicy-salif-20261005-v01",
+      "relation": "new_in_provided_history",
+      "publication": "unknown"
+    }
+  ],
+  "images": [
+    {
+      "id": "ida-volvo-front",
+      "case_id": "volvo-thors-hammer-headlight",
+      "asset_id": "cdn-493644",
+      "media_type": "image",
+      "source_url": "https://image.cardesignnews.com/493644.webp?format=jpg&height=642&imageId=493644&width=960",
+      "source_page": "https://www.cardesignnews.com/lighting/volvo-on-people-awards-win-and-lighting-design/493617",
+      "original_source_url": "https://image.cardesignnews.com/493644.webp?format=jpg&height=642&imageId=493644&width=960",
+      "sha256": "64a32cbaa86e15b8199398eab7380f4bd0a16003e72464150cb6fd5faf24e256",
+      "original_sha256": "64a32cbaa86e15b8199398eab7380f4bd0a16003e72464150cb6fd5faf24e256",
+      "width": 960,
+      "height": 642,
+      "derived_from": null,
+      "edits": "none",
+      "role": "cover",
+      "dedup": {
+        "result": "no_known_prior_match",
+        "scope": "provided_project_registry",
+        "url_and_sha_checked": true,
+        "visual_inspection": "individual_originals_reviewed",
+        "cross_ai_complete_history": false
+      },
+      "used_in": {
+        "ida-volvo-ex90-20261005-v01": {
+          "skill_name": "industrial-design-aesthetics-research",
+          "status": "delivered",
+          "role": "cover",
+          "delivery_files": [
+            "cases/01-volvo-ex90.md",
+            "docs/01-volvo-ex90.html"
+          ],
+          "reuse_reason": null
+        }
+      }
+    },
+    {
+      "id": "ida-volvo-detail-1",
+      "case_id": "volvo-thors-hammer-headlight",
+      "asset_id": "cdn-493892",
+      "media_type": "image",
+      "source_url": "https://image.cardesignnews.com/493892.webp?format=jpg&height=540&imageId=493892&width=960",
+      "source_page": "https://www.cardesignnews.com/lighting/volvo-on-people-awards-win-and-lighting-design/493617",
+      "original_source_url": "https://image.cardesignnews.com/493892.webp?format=jpg&height=540&imageId=493892&width=960",
+      "sha256": "8afdd16ecdd1e6d86ea8d07ece36aaf07a9e8d1d2253dd758dd867865cd27cb9",
+      "original_sha256": "8afdd16ecdd1e6d86ea8d07ece36aaf07a9e8d1d2253dd758dd867865cd27cb9",
+      "width": 960,
+      "height": 540,
+      "derived_from": null,
+      "edits": "none",
+      "role": "analysis_evidence",
+      "dedup": {
+        "result": "no_known_prior_match",
+        "scope": "provided_project_registry",
+        "url_and_sha_checked": true,
+        "visual_inspection": "individual_originals_reviewed",
+        "cross_ai_complete_history": false
+      },
+      "used_in": {
+        "ida-volvo-ex90-20261005-v01": {
+          "skill_name": "industrial-design-aesthetics-research",
+          "status": "delivered",
+          "role": "analysis_evidence",
+          "delivery_files": [
+            "cases/01-volvo-ex90.md",
+            "docs/01-volvo-ex90.html"
+          ],
+          "reuse_reason": null
+        }
+      }
+    },
+    {
+      "id": "ida-volvo-mechanism-3",
+      "case_id": "volvo-thors-hammer-headlight",
+      "asset_id": "cdn-494312",
+      "media_type": "image",
+      "source_url": "https://image.cardesignnews.com/494312.webp?format=jpg&height=642&imageId=494312&width=960",
+      "source_page": "https://www.cardesignnews.com/lighting/volvo-on-people-awards-win-and-lighting-design/493617",
+      "original_source_url": "https://image.cardesignnews.com/494312.webp?format=jpg&height=642&imageId=494312&width=960",
+      "sha256": "854d87ce43c1b9561f2ee52eb26d685cd2d417e8864ac07934288c4ab936cb7c",
+      "original_sha256": "854d87ce43c1b9561f2ee52eb26d685cd2d417e8864ac07934288c4ab936cb7c",
+      "width": 960,
+      "height": 642,
+      "derived_from": null,
+      "edits": "none",
+      "role": "analysis_evidence",
+      "dedup": {
+        "result": "no_known_prior_match",
+        "scope": "provided_project_registry",
+        "url_and_sha_checked": true,
+        "visual_inspection": "individual_originals_reviewed",
+        "cross_ai_complete_history": false
+      },
+      "used_in": {
+        "ida-volvo-ex90-20261005-v01": {
+          "skill_name": "industrial-design-aesthetics-research",
+          "status": "delivered",
+          "role": "analysis_evidence",
+          "delivery_files": [
+            "cases/01-volvo-ex90.md",
+            "docs/01-volvo-ex90.html"
+          ],
+          "reuse_reason": null
+        }
+      }
+    },
+    {
+      "id": "ida-salif-context",
+      "case_id": "philippe-starck-juicy-salif",
+      "asset_id": "/00DATA/cms/design/juicy-salif/juicy-salif-33.jpg",
+      "media_type": "image",
+      "source_url": "https://www.starck.com/00DATA/cms/design/juicy-salif/juicy-salif-33.jpg",
+      "source_page": "https://www.starck.com/juicy-salif-alessi-p2009",
+      "original_source_url": "https://www.starck.com/00DATA/cms/design/juicy-salif/juicy-salif-33.jpg",
+      "sha256": "489200b7176f2c0d5a2a5c26e7014ac9b006bee44cba05f06d04937493546de6",
+      "original_sha256": "489200b7176f2c0d5a2a5c26e7014ac9b006bee44cba05f06d04937493546de6",
+      "width": 1290,
+      "height": 1637,
+      "derived_from": null,
+      "edits": "none",
+      "role": "cover",
+      "dedup": {
+        "result": "no_known_prior_match",
+        "scope": "provided_project_registry",
+        "url_and_sha_checked": true,
+        "visual_inspection": "individual_originals_reviewed",
+        "cross_ai_complete_history": false
+      },
+      "used_in": {
+        "ida-juicy-salif-20261005-v01": {
+          "skill_name": "industrial-design-aesthetics-research",
+          "status": "delivered",
+          "role": "cover",
+          "delivery_files": [
+            "cases/02-juicy-salif.md",
+            "docs/02-juicy-salif.html"
+          ],
+          "reuse_reason": null
+        }
+      }
+    },
+    {
+      "id": "ida-salif-action",
+      "case_id": "philippe-starck-juicy-salif",
+      "asset_id": "/00DATA/cms/design/juicy-salif/juicy-salif-2.jpg",
+      "media_type": "image",
+      "source_url": "https://www.starck.com/00DATA/cms/design/juicy-salif/juicy-salif-2.jpg",
+      "source_page": "https://www.starck.com/juicy-salif-alessi-p2009",
+      "original_source_url": "https://www.starck.com/00DATA/cms/design/juicy-salif/juicy-salif-2.jpg",
+      "sha256": "4f5062a05f36cbf15d48d4c867191e4c2cc383c4504565687e4aa7f4a04d924e",
+      "original_sha256": "4f5062a05f36cbf15d48d4c867191e4c2cc383c4504565687e4aa7f4a04d924e",
+      "width": 960,
+      "height": 1229,
+      "derived_from": null,
+      "edits": "none",
+      "role": "analysis_evidence",
+      "dedup": {
+        "result": "no_known_prior_match",
+        "scope": "provided_project_registry",
+        "url_and_sha_checked": true,
+        "visual_inspection": "individual_originals_reviewed",
+        "cross_ai_complete_history": false
+      },
+      "used_in": {
+        "ida-juicy-salif-20261005-v01": {
+          "skill_name": "industrial-design-aesthetics-research",
+          "status": "delivered",
+          "role": "analysis_evidence",
+          "delivery_files": [
+            "cases/02-juicy-salif.md",
+            "docs/02-juicy-salif.html"
+          ],
+          "reuse_reason": null
+        }
+      }
+    },
+    {
+      "id": "ida-salif-sketch",
+      "case_id": "philippe-starck-juicy-salif",
+      "asset_id": "/cdn/shop/files/JuicySalif-2-archivio.jpg",
+      "media_type": "image",
+      "source_url": "https://us.alessi.com/cdn/shop/files/JuicySalif-2-archivio.jpg?v=1753095571&width=1000",
+      "source_page": "https://us.alessi.com/products/juicy-salif-citrus-squeezer",
+      "original_source_url": "https://us.alessi.com/cdn/shop/files/JuicySalif-2-archivio.jpg?v=1753095571&width=1000",
+      "sha256": "09957e9cbfc547e34624f05706a8420654d32cdc38db4bd4c449f2c6828cee80",
+      "original_sha256": "09957e9cbfc547e34624f05706a8420654d32cdc38db4bd4c449f2c6828cee80",
+      "width": 720,
+      "height": 960,
+      "derived_from": null,
+      "edits": "none",
+      "role": "analysis_evidence",
+      "dedup": {
+        "result": "no_known_prior_match",
+        "scope": "provided_project_registry",
+        "url_and_sha_checked": true,
+        "visual_inspection": "individual_originals_reviewed",
+        "cross_ai_complete_history": false
+      },
+      "used_in": {
+        "ida-juicy-salif-20261005-v01": {
+          "skill_name": "industrial-design-aesthetics-research",
+          "status": "delivered",
+          "role": "analysis_evidence",
+          "delivery_files": [
+            "cases/02-juicy-salif.md",
+            "docs/02-juicy-salif.html"
+          ],
+          "reuse_reason": null
+        }
+      }
+    }
+  ]
+}
