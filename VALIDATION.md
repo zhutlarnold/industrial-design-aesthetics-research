@@ -1,3 +1,20 @@
+# Skill 0.1.0初版验证 / Initial skill validation
+
+2026-10-06 (Asia/Shanghai)。本次新执行的检查：
+
+- 官方skill-creator格式验证通过；入口name/description、界面元数据、相对Markdown链接、便携Plugin清单基础字段检查通过。清单基础字段检查不是官方目录审核。
+- 复用本项目registry.py，字节与既有实现一致；41项回归检查通过，包括来源与事实引用、跨栏目身份/论点/媒体提示、保留版本、防覆盖、并发锁、备份与原子写入。
+- 空模板与公开双案例快照结构通过；实际快照中的已用图片与既有身份可产生预警。公开快照仅含该方向6个产品身份和10张已用图，不是项目全部历史。
+- 新建单Skill与Plugin ZIP，解包内容与来源逐项匹配，内部不依赖个人电脑路径。Skill指令无收费API或账户依赖；Python只用于可选离线历史检查。
+- 单文件普通AI提示词包含全部方法参考；三份项目说明具备中英文目标、功能、贡献、AI参与和验证范围，Skill目录同时附带说明。
+- 原图与两篇试稿保留，旧版验证不冒充本次重新执行。此次改动只新增Skill和文档入口、状态说明，未重写案例正文或改图。
+
+Initial-release checks cover metadata, local links, package integrity, example-history validity and 41 deterministic registry regressions. They do not establish official-directory approval, external-model behaviour, reader comprehension or platform reach.
+
+尚未完成独立模型/其他AI本次Skill行为试跑、读者理解测试或小红书发布测试。后续任务见evaluation/scenarios.md。历史案例只是提炼依据，不据此宣布所有选题都能跑通；本版本明确为可使用、可分享的完整初版，允许后续完善。
+
+---
+
 # 验证记录：美学原理双案例 v0.2
 
 日期：2026-10-06。下面为本次实测，v0.1历史记录保留在后方。

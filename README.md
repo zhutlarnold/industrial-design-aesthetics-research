@@ -1,6 +1,33 @@
+# 工业设计美学 / Industrial Design Aesthetics
+
+**完整Skill初版0.1.0已提炼，后续继续完善。** 核心方法：专业概念 → 白话解释 → 原图细节 → 关系分析 → 美感效果。以两篇迭代试稿为开发依据，不将结构检查等同外部模型或读者验收。
+
+**Initial skill release 0.1.0.** Explain the aesthetics of real industrial products using accessible art concepts and source imagery. Developed from two revised trials; structural validation does not establish reader comprehension or cross-model behaviour.
+
+- [使用方法与11项功能提示词 / Usage and 11 function prompts](skills/industrial-design-aesthetics/README.md)
+- [Skill指令 / Skill entrypoint](skills/industrial-design-aesthetics/SKILL.md)
+- [普通AI完整单文件提示词 / Complete text-chat prompt](universal-prompt.md)
+- [中英文项目说明与贡献证据 / Bilingual project statement](PROJECT_OVERVIEW_ZH_EN.md)
+- [验证 / Validation](VALIDATION.md) · [更新记录 / Changelog](CHANGELOG.md)
+- [下载Skill及Plugin / Download](https://github.com/zhutlarnold/industrial-design-aesthetics-research/releases/tag/v0.1.0-skill)
+
+安装示例 / Installation prompt:
+
+```text
+使用 $skill-installer，从 https://github.com/zhutlarnold/industrial-design-aesthetics-research/tree/main/skills/industrial-design-aesthetics 安装这个Skill。
+```
+
+普通AI：复制universal-prompt.md全文或作为附件发送，附最新历史后给任务。Native clients should load the complete skill folder; ordinary chat can use the complete text prompt and attached history. See [official skill guidance](https://learn.chatgpt.com/docs/build-skills). GitHub sharing is not universal-directory publication.
+
+三份内容保持独立：本方向解释美学原理；[科技参与艺术创作](https://github.com/zhutlarnold/tech-in-art-skill)解释技术成为艺术语言；[艺术批判工业科技](https://github.com/zhutlarnold/art-tech-critique-skill)分析社会批判与生活哲思。它们共用项目历史、素材限制和双语维护要求。
+
+---
+
+## 保留的案例与研究 / Preserved trials and research
+
 # 生活中的工业设计：美学与功能
 
-第三个内容方向的研究与双案例试稿，v0.2，2026-10-06。完整可安装 Skill 尚未生成，先用两个案例检验方法。
+第三个内容方向的研究与双案例试稿，v0.2，2026-10-06。两篇案例已作为Skill初版的开发依据，保留供阅读与后续完善。
 
 重点是让读者理解美学原理：**专业概念 → 一句白话 → 图片中的证据 → 关系分析 → 美感效果**。解释术语，但不把审美判断包装成普遍定律，不强加哲学反思。
 
@@ -23,4 +50,4 @@
 
 采用有出处的原始外观图和设计档案，不用 AI 生成图片替代证据。新选4张图片检查已知项目历史；同一文章修订沿用1张Volvo与3张榨汁器图片，明确登记沿用原因。长短版共用文章身份，不能算4篇新案例。跨 AI 去重需要共享最新历史，本仓库不自动获得其他平台记录。交付试稿不代表已经在小红书发布。
 
-下一步：你阅读两篇并评价专业解释是否清楚；满意后再提炼完整 Skill 与提示词功能表。
+下一步：使用Skill初版完成新任务，收集具体输出与反馈，在共同历史和GitHub中记录迭代。

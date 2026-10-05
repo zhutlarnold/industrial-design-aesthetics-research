@@ -1,3 +1,5 @@
+> 历史方法草案保留。2026-10-06按用户要求已提炼为[Skill初版](../skills/industrial-design-aesthetics/SKILL.md)，后续以Skill、验证与更新记录为准。下文是试稿阶段原文。
+
 # 第三个方向的方法草案 v0.2
 
 这不是完整 Skill，等待案例反馈后再提炼安装包。

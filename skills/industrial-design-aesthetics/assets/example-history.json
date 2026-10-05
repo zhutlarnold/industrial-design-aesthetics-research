@@ -1,0 +1,954 @@
+{
+  "schema_version": 1,
+  "scope": "Partial public industrial-design case snapshot, 2026-10-06. Not the complete or live cross-column project history.",
+  "cases": [
+    {
+      "id": "volvo-thors-hammer-headlight",
+      "title": "Thor’s Hammer headlight design",
+      "kind": "product",
+      "artist": "Volvo Cars",
+      "year": null,
+      "aliases": [
+        "沃尔沃车灯",
+        "雷神之锤",
+        "T形日行灯",
+        "Thor's Hammer",
+        "Thor’s Hammer"
+      ],
+      "stage": "delivered",
+      "publication": {
+        "status": "unknown",
+        "evidence": []
+      },
+      "analyses": {
+        "ida-volvo-ex90-20261005-v01": {
+          "skill_name": "industrial-design-aesthetics-research",
+          "angle": "生活中的工业设计：美学与功能",
+          "question": "不同前灯通过哪些美术组织方式形成美感？",
+          "takeaway": "比较统一变化、动势、明度主次、均衡与节奏；奖项限定范围。",
+          "stage": "delivered",
+          "publication": {
+            "status": "unknown",
+            "evidence": []
+          },
+          "user_accepted": false,
+          "daily_anchor": null,
+          "discussion_question": null,
+          "delivery_version": "0.2-trials",
+          "claim_ids": [
+            "IDA02-C-china-awards",
+            "IDA02-C-dvn-vote",
+            "IDA02-C-formal-concepts",
+            "IDA02-C-polestar-formal-reading",
+            "IDA02-C-ls7-formal-reading",
+            "IDA02-C-audi-formal-reading",
+            "IDA02-C-opel-formal-reading"
+          ],
+          "versions": {
+            "0.1": {
+              "skill_name": "industrial-design-aesthetics-research",
+              "angle": "生活中的工业设计：美学与功能",
+              "question": "灯光和机械动作如何使机器显得亲近？",
+              "takeaway": "照明结构也借身体动作表达品牌身份与迎接；亲近感不等于可靠。",
+              "stage": "delivered",
+              "publication": {
+                "status": "unknown",
+                "evidence": []
+              },
+              "user_accepted": false,
+              "daily_anchor": "家门口留着的一盏灯",
+              "discussion_question": "机器让人觉得被迎接，会不会使人额外信任它？",
+              "delivery_version": "0.1-trials",
+              "claim_ids": [
+                "IDA-C-volvo-mechanism",
+                "IDA-C-volvo-welcome",
+                "IDA-C-volvo-expression"
+              ]
+            }
+          },
+          "updated": "2026-10-06",
+          "focus": "professional_art_concepts_explained_accessibly"
+        }
+      }
+    },
+    {
+      "id": "philippe-starck-juicy-salif",
+      "title": "Juicy Salif",
+      "kind": "product",
+      "artist": "Philippe Starck",
+      "year": 1988,
+      "aliases": [
+        "Juicy Salif citrus squeezer",
+        "Alessi 榨汁器",
+        "菲利普·斯塔克三足榨汁器"
+      ],
+      "stage": "delivered",
+      "publication": {
+        "status": "unknown",
+        "evidence": []
+      },
+      "analyses": {
+        "ida-juicy-salif-20261005-v01": {
+          "skill_name": "industrial-design-aesthetics-research",
+          "angle": "生活中的工业设计：美学与功能",
+          "question": "比例、正负形、节奏和金属明暗为何使工具显得像雕塑？",
+          "takeaway": "用原图逐一解释美感形成，保留形式与功能的联系。",
+          "stage": "delivered",
+          "publication": {
+            "status": "unknown",
+            "evidence": []
+          },
+          "user_accepted": false,
+          "daily_anchor": null,
+          "discussion_question": null,
+          "delivery_version": "0.2-trials",
+          "claim_ids": [
+            "IDA02-C-salif-observed",
+            "IDA02-C-salif-formal-reading"
+          ],
+          "versions": {
+            "0.1": {
+              "skill_name": "industrial-design-aesthetics-research",
+              "angle": "生活中的工业设计：美学与功能",
+              "question": "雕塑般的外形产生什么使用之外的价值？",
+              "takeaway": "欣赏与交谈也是价值，但应与使用取舍一起考虑。",
+              "stage": "delivered",
+              "publication": {
+                "status": "unknown",
+                "evidence": []
+              },
+              "user_accepted": false,
+              "daily_anchor": "家里喜欢却不特别顺手的物件",
+              "discussion_question": "喜欢一件工具的理由，怎样与每天使用它相处？",
+              "delivery_version": "0.1-trials",
+              "claim_ids": [
+                "IDA-C-salif-design-date",
+                "IDA-C-salif-path",
+                "IDA-C-salif-conversation",
+                "IDA-C-salif-value"
+              ]
+            }
+          },
+          "updated": "2026-10-06",
+          "focus": "professional_art_concepts_explained_accessibly"
+        }
+      }
+    },
+    {
+      "id": "polestar-4-headlight",
+      "title": "Polestar 4 前灯",
+      "kind": "product",
+      "artist": "Polestar",
+      "year": null,
+      "aliases": [
+        "极星4前灯",
+        "Polestar 4 headlights"
+      ],
+      "stage": "researched",
+      "publication": {
+        "status": "unknown",
+        "evidence": []
+      }
+    },
+    {
+      "id": "im-ls7-headlight",
+      "title": "智己 LS7 前灯",
+      "kind": "product",
+      "artist": "IM Motors",
+      "year": null,
+      "aliases": [
+        "智己LS7车灯",
+        "IM LS7 headlights"
+      ],
+      "stage": "researched",
+      "publication": {
+        "status": "unknown",
+        "evidence": []
+      }
+    },
+    {
+      "id": "audi-a6-avant-e-tron-headlight",
+      "title": "Audi A6 Avant e-tron 前灯",
+      "kind": "product",
+      "artist": "Audi",
+      "year": null,
+      "aliases": [
+        "奥迪A6 Avant e-tron灯组"
+      ],
+      "stage": "researched",
+      "publication": {
+        "status": "unknown",
+        "evidence": []
+      }
+    },
+    {
+      "id": "opel-grandland-headlight",
+      "title": "Opel Grandland 前灯",
+      "kind": "product",
+      "artist": "Opel",
+      "year": null,
+      "aliases": [
+        "欧宝Grandland灯组"
+      ],
+      "stage": "researched",
+      "publication": {
+        "status": "unknown",
+        "evidence": []
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "H025",
+      "url": "https://www.volvocars.com/de-ch/news/corporate/volvo-ex90-das-zwinkern-von-thors-hammer/",
+      "source_type": "historical_reference",
+      "evidence_family_id": null
+    },
+    {
+      "id": "IDA-S-volvo-interview",
+      "url": "https://www.cardesignnews.com/lighting/volvo-on-people-awards-win-and-lighting-design/493617",
+      "source_type": "designer_interview",
+      "accessed": "2026-10-05"
+    },
+    {
+      "id": "IDA-S-salif-starck",
+      "url": "https://www.starck.com/juicy-salif-alessi-p2009",
+      "source_type": "designer_archive",
+      "accessed": "2026-10-05"
+    },
+    {
+      "id": "IDA-S-salif-moma",
+      "url": "https://www.moma.org/collection/works/1825",
+      "source_type": "museum_record",
+      "accessed": "2026-10-05"
+    },
+    {
+      "id": "IDA-S-salif-aberdeen",
+      "url": "https://emuseum.aberdeencity.gov.uk/objects/89829/juicy-salif-citrus-squeezer",
+      "source_type": "museum_record",
+      "accessed": "2026-10-05"
+    },
+    {
+      "id": "IDA-S-salif-reflection",
+      "url": "https://www.starck.com/alessi-100-values-juicy-salif-n-3-p4490",
+      "source_type": "designer_retrospective_statement",
+      "accessed": "2026-10-05"
+    },
+    {
+      "id": "IDA02-S-7ff71451edd5",
+      "url": "https://www.dengdengschool.com/article/zuimeichedengtoupiaohuodong/1667.html",
+      "source_type": "primary_case_evidence_or_art_education",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": "IDA02-S-14873702041c",
+      "url": "https://www.linkedin.com/pulse/2025-dvn-award-paul-henri-matha-tdeee/",
+      "source_type": "primary_case_evidence_or_art_education",
+      "accessed": "2026-10-06",
+      "evidence_family_id": "dvn-award-2025"
+    },
+    {
+      "id": "IDA02-S-aa27e7608420",
+      "url": "https://www.audi.com/en/press-releases/audi-a6-e-tron-as-exciting-as-the-show-car-16122",
+      "source_type": "primary_case_evidence_or_art_education",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": "IDA02-S-37994ed0685a",
+      "url": "https://www.audi.com/en/photos/album/audi-a6-avant-e-tron-2592",
+      "source_type": "primary_case_evidence_or_art_education",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": "IDA02-S-bd98ca41c77c",
+      "url": "https://kommunikasjon.ntb.no/pressemelding/18069448/nye-opel-grandland-fra-konsept-til-virkelighet?lang=no&publisherId=16656993",
+      "source_type": "primary_case_evidence_or_art_education",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": "IDA02-S-e646daf07d69",
+      "url": "https://www.getty.edu/education/teachers/building_lessons/formal_analysis.html",
+      "source_type": "primary_case_evidence_or_art_education",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": "IDA02-S-4c86d7b5c121",
+      "url": "https://www.getty.edu/education/teachers/building_lessons/principles_design.pdf",
+      "source_type": "primary_case_evidence_or_art_education",
+      "accessed": "2026-10-06"
+    }
+  ],
+  "searches": [],
+  "claims": [
+    {
+      "id": "IDA-C-volvo-mechanism",
+      "case_id": "volvo-thors-hammer-headlight",
+      "type": "fact",
+      "text": "EX90 团队访谈说明远近光模块放在横向日行灯后，机械开合为照明模块让出位置；不推广到全部地区配置。",
+      "sources": [
+        "IDA-S-volvo-interview",
+        "H025"
+      ],
+      "premises": [],
+      "publishable": true
+    },
+    {
+      "id": "IDA-C-volvo-welcome",
+      "case_id": "volvo-thors-hammer-headlight",
+      "type": "artist_intent",
+      "text": "团队希望灯的动作像醒来和睡去；官方将迎宾动作描述为欢迎回家。",
+      "sources": [
+        "IDA-S-volvo-interview",
+        "H025"
+      ],
+      "premises": [],
+      "publishable": true
+    },
+    {
+      "id": "IDA-C-volvo-expression",
+      "case_id": "volvo-thors-hammer-headlight",
+      "type": "interpretation",
+      "text": "光与机械运动借熟悉的眼睛动作，使车辆看起来有表情；亲近感不证明可靠性。",
+      "sources": [],
+      "premises": [
+        "IDA-C-volvo-mechanism",
+        "IDA-C-volvo-welcome"
+      ],
+      "publishable": true
+    },
+    {
+      "id": "IDA-C-salif-design-date",
+      "case_id": "philippe-starck-juicy-salif",
+      "type": "fact",
+      "text": "Starck 与 MoMA 将设计记为1988年；其他馆藏口径不同，不把设计年份等同所有藏品制作年。",
+      "sources": [
+        "IDA-S-salif-starck",
+        "IDA-S-salif-moma"
+      ],
+      "premises": [],
+      "publishable": true
+    },
+    {
+      "id": "IDA-C-salif-path",
+      "case_id": "philippe-starck-juicy-salif",
+      "type": "fact",
+      "text": "沟槽与三足结构使汁液直接进入下方杯子，没有配套筛网隔开籽和果肉。",
+      "sources": [
+        "IDA-S-salif-aberdeen"
+      ],
+      "premises": [],
+      "publishable": true
+    },
+    {
+      "id": "IDA-C-salif-conversation",
+      "case_id": "philippe-starck-juicy-salif",
+      "type": "artist_intent",
+      "text": "Starck 在2021年回看作品时把它描述为能激发想象、引起交谈的小雕塑；不是1988年原始意图记录。",
+      "sources": [
+        "IDA-S-salif-reflection"
+      ],
+      "premises": [],
+      "publishable": true
+    },
+    {
+      "id": "IDA-C-salif-value",
+      "case_id": "philippe-starck-juicy-salif",
+      "type": "interpretation",
+      "text": "雕塑般的轮廓可产生欣赏与交谈的价值，保留它的理由仍需与操作习惯相处。",
+      "sources": [],
+      "premises": [
+        "IDA-C-salif-path",
+        "IDA-C-salif-conversation"
+      ],
+      "publishable": true
+    },
+    {
+      "id": "IDA02-C-china-awards",
+      "case_id": "volvo-thors-hammer-headlight",
+      "type": "fact",
+      "text": "2023第四届车灯评选的两项年度颜值类别分别授予极星4前灯与智己LS7前灯；公众20%、注册评委50%、特邀评委30%，不代表普遍消费者审美排名。",
+      "sources": [
+        "IDA02-S-7ff71451edd5"
+      ],
+      "premises": [],
+      "publishable": true
+    },
+    {
+      "id": "IDA02-C-dvn-vote",
+      "case_id": "volvo-thors-hammer-headlight",
+      "type": "fact",
+      "text": "DVN 2025前灯前三项为Grandland26%、Audi Avant e-tron23%、DS N°8 16%；公告整体796票122家公司，前灯分母未公开，设计技术未分开。",
+      "sources": [
+        "IDA02-S-14873702041c"
+      ],
+      "premises": [],
+      "publishable": true
+    },
+    {
+      "id": "IDA02-C-formal-concepts",
+      "case_id": "volvo-thors-hammer-headlight",
+      "type": "fact",
+      "text": "Getty教育材料讨论线形明度空间、比例均衡节奏统一变化；本文术语简化依据该材料，不作为普遍喜好实验。",
+      "sources": [
+        "IDA02-S-e646daf07d69",
+        "IDA02-S-4c86d7b5c121"
+      ],
+      "premises": [],
+      "publishable": true
+    },
+    {
+      "id": "IDA02-C-polestar-observed",
+      "case_id": "polestar-4-headlight",
+      "type": "fact",
+      "text": "原图中上下灯带分开，两端的转折方向不同。",
+      "sources": [
+        "IDA02-S-7ff71451edd5"
+      ],
+      "premises": [],
+      "publishable": true
+    },
+    {
+      "id": "IDA02-C-polestar-formal-reading",
+      "case_id": "polestar-4-headlight",
+      "type": "interpretation",
+      "text": "间隙和统一中的变化使灯组显得较薄、轻巧。",
+      "sources": [],
+      "premises": [
+        "IDA02-C-polestar-observed",
+        "IDA02-C-formal-concepts"
+      ],
+      "publishable": true
+    },
+    {
+      "id": "IDA02-C-ls7-observed",
+      "case_id": "im-ls7-headlight",
+      "type": "fact",
+      "text": "原图中灯带横向延伸后在外侧弯起，与周围车身面相接。",
+      "sources": [
+        "IDA02-S-7ff71451edd5"
+      ],
+      "premises": [],
+      "publishable": true
+    },
+    {
+      "id": "IDA02-C-ls7-formal-reading",
+      "case_id": "im-ls7-headlight",
+      "type": "interpretation",
+      "text": "弧线方向与转折塑造流动感；曲线不必优于直线。",
+      "sources": [],
+      "premises": [
+        "IDA02-C-ls7-observed",
+        "IDA02-C-formal-concepts"
+      ],
+      "publishable": true
+    },
+    {
+      "id": "IDA02-C-audi-observed",
+      "case_id": "audi-a6-avant-e-tron-headlight",
+      "type": "fact",
+      "text": "A244694官方图中，上方细灯与下方黑色面罩中的灯组形成两层。",
+      "sources": [
+        "IDA02-S-37994ed0685a"
+      ],
+      "premises": [],
+      "publishable": true
+    },
+    {
+      "id": "IDA02-C-audi-formal-reading",
+      "case_id": "audi-a6-avant-e-tron-headlight",
+      "type": "interpretation",
+      "text": "亮暗与位置安排建立主次，使前脸易读成宽低的形。",
+      "sources": [],
+      "premises": [
+        "IDA02-C-audi-observed",
+        "IDA02-C-formal-concepts"
+      ],
+      "publishable": true
+    },
+    {
+      "id": "IDA02-C-opel-observed",
+      "case_id": "opel-grandland-headlight",
+      "type": "fact",
+      "text": "品牌发布图中，横向光形与中心标志处于同一深色前脸。",
+      "sources": [
+        "IDA02-S-bd98ca41c77c"
+      ],
+      "premises": [],
+      "publishable": true
+    },
+    {
+      "id": "IDA02-C-opel-formal-reading",
+      "case_id": "opel-grandland-headlight",
+      "type": "interpretation",
+      "text": "连接、对称与中心组织让两侧灯被读为完整前脸。",
+      "sources": [],
+      "premises": [
+        "IDA02-C-opel-observed",
+        "IDA02-C-formal-concepts"
+      ],
+      "publishable": true
+    },
+    {
+      "id": "IDA02-C-audi-intent",
+      "case_id": "audi-a6-avant-e-tron-headlight",
+      "type": "artist_intent",
+      "text": "参与设计者解释将较大功能灯单元融入暗色面罩，以保留扁宽的视觉比例。",
+      "sources": [
+        "IDA02-S-aa27e7608420"
+      ],
+      "premises": [],
+      "publishable": true
+    },
+    {
+      "id": "IDA02-C-salif-observed",
+      "case_id": "philippe-starck-juicy-salif",
+      "type": "fact",
+      "text": "原图显示长细支撑、腿间空处与沿曲面排列的沟槽；反光展示明暗变化。",
+      "sources": [
+        "IDA-S-salif-starck"
+      ],
+      "premises": [],
+      "publishable": true
+    },
+    {
+      "id": "IDA02-C-salif-formal-reading",
+      "case_id": "philippe-starck-juicy-salif",
+      "type": "interpretation",
+      "text": "比例、正负形、重复与变化、金属明暗共同塑造轻巧和雕塑般的印象；不证明效率或稳定性。",
+      "sources": [
+        "IDA02-S-e646daf07d69",
+        "IDA02-S-4c86d7b5c121"
+      ],
+      "premises": [
+        "IDA02-C-salif-observed",
+        "IDA02-C-formal-concepts"
+      ],
+      "publishable": true
+    }
+  ],
+  "images": [
+    {
+      "id": "ida-volvo-front",
+      "case_id": "volvo-thors-hammer-headlight",
+      "asset_id": "cdn-493644",
+      "media_type": "image",
+      "source_url": "https://image.cardesignnews.com/493644.webp?format=jpg&height=642&imageId=493644&width=960",
+      "source_page": "https://www.cardesignnews.com/lighting/volvo-on-people-awards-win-and-lighting-design/493617",
+      "original_source_url": "https://image.cardesignnews.com/493644.webp?format=jpg&height=642&imageId=493644&width=960",
+      "sha256": "64a32cbaa86e15b8199398eab7380f4bd0a16003e72464150cb6fd5faf24e256",
+      "original_sha256": "64a32cbaa86e15b8199398eab7380f4bd0a16003e72464150cb6fd5faf24e256",
+      "width": 960,
+      "height": 642,
+      "derived_from": null,
+      "edits": "none",
+      "role": "cover",
+      "dedup": {
+        "result": "no_known_prior_match",
+        "scope": "provided_project_registry",
+        "url_and_sha_checked": true,
+        "visual_inspection": "individual_originals_reviewed",
+        "cross_ai_complete_history": false
+      },
+      "used_in": {
+        "ida-volvo-ex90-20261005-v01": {
+          "skill_name": "industrial-design-aesthetics-research",
+          "status": "delivered",
+          "role": "comparison_reference",
+          "delivery_files": [
+            "cases/01-volvo-ex90.md",
+            "cases/01-volvo-ex90-post.txt",
+            "docs/01-volvo-ex90.html",
+            "docs/01-volvo-ex90-short.html"
+          ],
+          "reuse_reason": "Same article revision and its long/short editions; user requested revised delivery, not a new article.",
+          "previous_uses": [
+            {
+              "skill_name": "industrial-design-aesthetics-research",
+              "status": "delivered",
+              "role": "cover",
+              "delivery_files": [
+                "cases/01-volvo-ex90.md",
+                "docs/01-volvo-ex90.html"
+              ],
+              "reuse_reason": null
+            }
+          ],
+          "revision": "0.2"
+        }
+      }
+    },
+    {
+      "id": "ida-volvo-detail-1",
+      "case_id": "volvo-thors-hammer-headlight",
+      "asset_id": "cdn-493892",
+      "media_type": "image",
+      "source_url": "https://image.cardesignnews.com/493892.webp?format=jpg&height=540&imageId=493892&width=960",
+      "source_page": "https://www.cardesignnews.com/lighting/volvo-on-people-awards-win-and-lighting-design/493617",
+      "original_source_url": "https://image.cardesignnews.com/493892.webp?format=jpg&height=540&imageId=493892&width=960",
+      "sha256": "8afdd16ecdd1e6d86ea8d07ece36aaf07a9e8d1d2253dd758dd867865cd27cb9",
+      "original_sha256": "8afdd16ecdd1e6d86ea8d07ece36aaf07a9e8d1d2253dd758dd867865cd27cb9",
+      "width": 960,
+      "height": 540,
+      "derived_from": null,
+      "edits": "none",
+      "role": "analysis_evidence",
+      "dedup": {
+        "result": "no_known_prior_match",
+        "scope": "provided_project_registry",
+        "url_and_sha_checked": true,
+        "visual_inspection": "individual_originals_reviewed",
+        "cross_ai_complete_history": false
+      },
+      "used_in": {
+        "ida-volvo-ex90-20261005-v01": {
+          "skill_name": "industrial-design-aesthetics-research",
+          "status": "delivered",
+          "role": "analysis_evidence",
+          "delivery_files": [
+            "cases/01-volvo-ex90.md",
+            "docs/01-volvo-ex90.html"
+          ],
+          "reuse_reason": null
+        }
+      }
+    },
+    {
+      "id": "ida-volvo-mechanism-3",
+      "case_id": "volvo-thors-hammer-headlight",
+      "asset_id": "cdn-494312",
+      "media_type": "image",
+      "source_url": "https://image.cardesignnews.com/494312.webp?format=jpg&height=642&imageId=494312&width=960",
+      "source_page": "https://www.cardesignnews.com/lighting/volvo-on-people-awards-win-and-lighting-design/493617",
+      "original_source_url": "https://image.cardesignnews.com/494312.webp?format=jpg&height=642&imageId=494312&width=960",
+      "sha256": "854d87ce43c1b9561f2ee52eb26d685cd2d417e8864ac07934288c4ab936cb7c",
+      "original_sha256": "854d87ce43c1b9561f2ee52eb26d685cd2d417e8864ac07934288c4ab936cb7c",
+      "width": 960,
+      "height": 642,
+      "derived_from": null,
+      "edits": "none",
+      "role": "analysis_evidence",
+      "dedup": {
+        "result": "no_known_prior_match",
+        "scope": "provided_project_registry",
+        "url_and_sha_checked": true,
+        "visual_inspection": "individual_originals_reviewed",
+        "cross_ai_complete_history": false
+      },
+      "used_in": {
+        "ida-volvo-ex90-20261005-v01": {
+          "skill_name": "industrial-design-aesthetics-research",
+          "status": "delivered",
+          "role": "analysis_evidence",
+          "delivery_files": [
+            "cases/01-volvo-ex90.md",
+            "docs/01-volvo-ex90.html"
+          ],
+          "reuse_reason": null
+        }
+      }
+    },
+    {
+      "id": "ida-salif-context",
+      "case_id": "philippe-starck-juicy-salif",
+      "asset_id": "/00DATA/cms/design/juicy-salif/juicy-salif-33.jpg",
+      "media_type": "image",
+      "source_url": "https://www.starck.com/00DATA/cms/design/juicy-salif/juicy-salif-33.jpg",
+      "source_page": "https://www.starck.com/juicy-salif-alessi-p2009",
+      "original_source_url": "https://www.starck.com/00DATA/cms/design/juicy-salif/juicy-salif-33.jpg",
+      "sha256": "489200b7176f2c0d5a2a5c26e7014ac9b006bee44cba05f06d04937493546de6",
+      "original_sha256": "489200b7176f2c0d5a2a5c26e7014ac9b006bee44cba05f06d04937493546de6",
+      "width": 1290,
+      "height": 1637,
+      "derived_from": null,
+      "edits": "none",
+      "role": "cover",
+      "dedup": {
+        "result": "no_known_prior_match",
+        "scope": "provided_project_registry",
+        "url_and_sha_checked": true,
+        "visual_inspection": "individual_originals_reviewed",
+        "cross_ai_complete_history": false
+      },
+      "used_in": {
+        "ida-juicy-salif-20261005-v01": {
+          "skill_name": "industrial-design-aesthetics-research",
+          "status": "delivered",
+          "role": "cover",
+          "delivery_files": [
+            "cases/02-juicy-salif.md",
+            "cases/02-juicy-salif-post.txt",
+            "docs/02-juicy-salif.html",
+            "docs/02-juicy-salif-short.html"
+          ],
+          "reuse_reason": "Same article revision and its long/short editions; user requested revised delivery, not a new article.",
+          "previous_uses": [
+            {
+              "skill_name": "industrial-design-aesthetics-research",
+              "status": "delivered",
+              "role": "cover",
+              "delivery_files": [
+                "cases/02-juicy-salif.md",
+                "docs/02-juicy-salif.html"
+              ],
+              "reuse_reason": null
+            }
+          ],
+          "revision": "0.2"
+        }
+      }
+    },
+    {
+      "id": "ida-salif-action",
+      "case_id": "philippe-starck-juicy-salif",
+      "asset_id": "/00DATA/cms/design/juicy-salif/juicy-salif-2.jpg",
+      "media_type": "image",
+      "source_url": "https://www.starck.com/00DATA/cms/design/juicy-salif/juicy-salif-2.jpg",
+      "source_page": "https://www.starck.com/juicy-salif-alessi-p2009",
+      "original_source_url": "https://www.starck.com/00DATA/cms/design/juicy-salif/juicy-salif-2.jpg",
+      "sha256": "4f5062a05f36cbf15d48d4c867191e4c2cc383c4504565687e4aa7f4a04d924e",
+      "original_sha256": "4f5062a05f36cbf15d48d4c867191e4c2cc383c4504565687e4aa7f4a04d924e",
+      "width": 960,
+      "height": 1229,
+      "derived_from": null,
+      "edits": "none",
+      "role": "analysis_evidence",
+      "dedup": {
+        "result": "no_known_prior_match",
+        "scope": "provided_project_registry",
+        "url_and_sha_checked": true,
+        "visual_inspection": "individual_originals_reviewed",
+        "cross_ai_complete_history": false
+      },
+      "used_in": {
+        "ida-juicy-salif-20261005-v01": {
+          "skill_name": "industrial-design-aesthetics-research",
+          "status": "delivered",
+          "role": "analysis_evidence",
+          "delivery_files": [
+            "cases/02-juicy-salif.md",
+            "cases/02-juicy-salif-post.txt",
+            "docs/02-juicy-salif.html",
+            "docs/02-juicy-salif-short.html"
+          ],
+          "reuse_reason": "Same article revision and its long/short editions; user requested revised delivery, not a new article.",
+          "previous_uses": [
+            {
+              "skill_name": "industrial-design-aesthetics-research",
+              "status": "delivered",
+              "role": "analysis_evidence",
+              "delivery_files": [
+                "cases/02-juicy-salif.md",
+                "docs/02-juicy-salif.html"
+              ],
+              "reuse_reason": null
+            }
+          ],
+          "revision": "0.2"
+        }
+      }
+    },
+    {
+      "id": "ida-salif-sketch",
+      "case_id": "philippe-starck-juicy-salif",
+      "asset_id": "/cdn/shop/files/JuicySalif-2-archivio.jpg",
+      "media_type": "image",
+      "source_url": "https://us.alessi.com/cdn/shop/files/JuicySalif-2-archivio.jpg?v=1753095571&width=1000",
+      "source_page": "https://us.alessi.com/products/juicy-salif-citrus-squeezer",
+      "original_source_url": "https://us.alessi.com/cdn/shop/files/JuicySalif-2-archivio.jpg?v=1753095571&width=1000",
+      "sha256": "09957e9cbfc547e34624f05706a8420654d32cdc38db4bd4c449f2c6828cee80",
+      "original_sha256": "09957e9cbfc547e34624f05706a8420654d32cdc38db4bd4c449f2c6828cee80",
+      "width": 720,
+      "height": 960,
+      "derived_from": null,
+      "edits": "none",
+      "role": "analysis_evidence",
+      "dedup": {
+        "result": "no_known_prior_match",
+        "scope": "provided_project_registry",
+        "url_and_sha_checked": true,
+        "visual_inspection": "individual_originals_reviewed",
+        "cross_ai_complete_history": false
+      },
+      "used_in": {
+        "ida-juicy-salif-20261005-v01": {
+          "skill_name": "industrial-design-aesthetics-research",
+          "status": "delivered",
+          "role": "analysis_evidence",
+          "delivery_files": [
+            "cases/02-juicy-salif.md",
+            "cases/02-juicy-salif-post.txt",
+            "docs/02-juicy-salif.html",
+            "docs/02-juicy-salif-short.html"
+          ],
+          "reuse_reason": "Same article revision and its long/short editions; user requested revised delivery, not a new article.",
+          "previous_uses": [
+            {
+              "skill_name": "industrial-design-aesthetics-research",
+              "status": "delivered",
+              "role": "analysis_evidence",
+              "delivery_files": [
+                "cases/02-juicy-salif.md",
+                "docs/02-juicy-salif.html"
+              ],
+              "reuse_reason": null
+            }
+          ],
+          "revision": "0.2"
+        }
+      }
+    },
+    {
+      "id": "ida-polestar-4-award",
+      "case_id": "polestar-4-headlight",
+      "asset_id": "/uploads/20240131/Fg9T6AAHlVcyGlouMtURNhTaqNCQ.jpg",
+      "media_type": "image",
+      "source_url": "https://cdn.dengdengschool.com/uploads/20240131/Fg9T6AAHlVcyGlouMtURNhTaqNCQ.jpg",
+      "source_page": "https://www.dengdengschool.com/article/zuimeichedengtoupiaohuodong/1667.html",
+      "original_source_url": "https://cdn.dengdengschool.com/uploads/20240131/Fg9T6AAHlVcyGlouMtURNhTaqNCQ.jpg",
+      "sha256": "fcebbf14eb89ddee2b4f8d17e5d5309610253520cb9fe4cceae99a4469089032",
+      "original_sha256": "fcebbf14eb89ddee2b4f8d17e5d5309610253520cb9fe4cceae99a4469089032",
+      "width": 1024,
+      "height": 733,
+      "derived_from": null,
+      "edits": "none",
+      "role": "cover",
+      "dedup": {
+        "result": "no_known_prior_match",
+        "scope": "provided_project_registry",
+        "url_and_sha_checked": true,
+        "visual_inspection": "original_image_reviewed",
+        "cross_ai_complete_history": false
+      },
+      "used_in": {
+        "ida-volvo-ex90-20261005-v01": {
+          "skill_name": "industrial-design-aesthetics-research",
+          "status": "delivered",
+          "role": "cover",
+          "delivery_files": [
+            "cases/01-volvo-ex90.md",
+            "cases/01-volvo-ex90-post.txt",
+            "docs/01-volvo-ex90.html",
+            "docs/01-volvo-ex90-short.html"
+          ],
+          "revision": "0.2",
+          "reuse_reason": null
+        }
+      }
+    },
+    {
+      "id": "ida-ls7-award",
+      "case_id": "im-ls7-headlight",
+      "asset_id": "/uploads/20240131/Fs3zhKw6uyzMB2D02UYwkJvaTSPD.jpg",
+      "media_type": "image",
+      "source_url": "https://cdn.dengdengschool.com/uploads/20240131/Fs3zhKw6uyzMB2D02UYwkJvaTSPD.jpg",
+      "source_page": "https://www.dengdengschool.com/article/zuimeichedengtoupiaohuodong/1667.html",
+      "original_source_url": "https://cdn.dengdengschool.com/uploads/20240131/Fs3zhKw6uyzMB2D02UYwkJvaTSPD.jpg",
+      "sha256": "fb8174f19f0bee997b258edf28c2e9c6f088a1e070ee4cd76e443785bf449248",
+      "original_sha256": "fb8174f19f0bee997b258edf28c2e9c6f088a1e070ee4cd76e443785bf449248",
+      "width": 1080,
+      "height": 795,
+      "derived_from": null,
+      "edits": "none",
+      "role": "analysis_evidence",
+      "dedup": {
+        "result": "no_known_prior_match",
+        "scope": "provided_project_registry",
+        "url_and_sha_checked": true,
+        "visual_inspection": "original_image_reviewed",
+        "cross_ai_complete_history": false
+      },
+      "used_in": {
+        "ida-volvo-ex90-20261005-v01": {
+          "skill_name": "industrial-design-aesthetics-research",
+          "status": "delivered",
+          "role": "analysis_evidence",
+          "delivery_files": [
+            "cases/01-volvo-ex90.md",
+            "cases/01-volvo-ex90-post.txt",
+            "docs/01-volvo-ex90.html",
+            "docs/01-volvo-ex90-short.html"
+          ],
+          "revision": "0.2",
+          "reuse_reason": null
+        }
+      }
+    },
+    {
+      "id": "ida-audi-avant-01",
+      "case_id": "audi-a6-avant-e-tron-headlight",
+      "asset_id": "/system/production/media/126876/images/8a7a0298d3bd7ba30f72634a12a07127babffd14/A244694_web_1440.jpg",
+      "media_type": "image",
+      "source_url": "https://uploads.audi.com/system/production/media/126876/images/8a7a0298d3bd7ba30f72634a12a07127babffd14/A244694_web_1440.jpg?1732629287",
+      "source_page": "https://www.audi.com/en/photos/album/audi-a6-avant-e-tron-2592",
+      "original_source_url": "https://uploads.audi.com/system/production/media/126876/images/8a7a0298d3bd7ba30f72634a12a07127babffd14/A244694_web_1440.jpg?1732629287",
+      "sha256": "07befadd0eb9cc556feb68f85cd9195e28ffef231f427b0f87e6fc0f5d7f74ed",
+      "original_sha256": "07befadd0eb9cc556feb68f85cd9195e28ffef231f427b0f87e6fc0f5d7f74ed",
+      "width": 1440,
+      "height": 959,
+      "derived_from": null,
+      "edits": "none",
+      "role": "analysis_evidence",
+      "dedup": {
+        "result": "no_known_prior_match",
+        "scope": "provided_project_registry",
+        "url_and_sha_checked": true,
+        "visual_inspection": "original_image_reviewed",
+        "cross_ai_complete_history": false
+      },
+      "used_in": {
+        "ida-volvo-ex90-20261005-v01": {
+          "skill_name": "industrial-design-aesthetics-research",
+          "status": "delivered",
+          "role": "analysis_evidence",
+          "delivery_files": [
+            "cases/01-volvo-ex90.md",
+            "cases/01-volvo-ex90-post.txt",
+            "docs/01-volvo-ex90.html",
+            "docs/01-volvo-ex90-short.html"
+          ],
+          "revision": "0.2",
+          "reuse_reason": null
+        }
+      }
+    },
+    {
+      "id": "ida-opel-grandland",
+      "case_id": "opel-grandland-headlight",
+      "asset_id": "/data/images/public/16656993/18069448/771de609-c814-4807-bc69-fe354e0e4deb-w_960.jpg",
+      "media_type": "image",
+      "source_url": "https://kommunikasjon.ntb.no/data/images/public/16656993/18069448/771de609-c814-4807-bc69-fe354e0e4deb-w_960.jpg",
+      "source_page": "https://kommunikasjon.ntb.no/pressemelding/18069448/nye-opel-grandland-fra-konsept-til-virkelighet?lang=no&publisherId=16656993",
+      "original_source_url": "https://kommunikasjon.ntb.no/data/images/public/16656993/18069448/771de609-c814-4807-bc69-fe354e0e4deb-w_960.jpg",
+      "sha256": "78e2b512470710beed0145b5cd34623916a5b581b6ec382e729d7611cca8ef32",
+      "original_sha256": "78e2b512470710beed0145b5cd34623916a5b581b6ec382e729d7611cca8ef32",
+      "width": 960,
+      "height": 641,
+      "derived_from": null,
+      "edits": "none",
+      "role": "analysis_evidence",
+      "dedup": {
+        "result": "no_known_prior_match",
+        "scope": "provided_project_registry",
+        "url_and_sha_checked": true,
+        "visual_inspection": "original_image_reviewed",
+        "cross_ai_complete_history": false
+      },
+      "used_in": {
+        "ida-volvo-ex90-20261005-v01": {
+          "skill_name": "industrial-design-aesthetics-research",
+          "status": "delivered",
+          "role": "analysis_evidence",
+          "delivery_files": [
+            "cases/01-volvo-ex90.md",
+            "cases/01-volvo-ex90-post.txt",
+            "docs/01-volvo-ex90.html",
+            "docs/01-volvo-ex90-short.html"
+          ],
+          "revision": "0.2",
+          "reuse_reason": null
+        }
+      }
+    }
+  ],
+  "updated": "2026-10-06"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "工业设计美学 · Design Aesthetics"
+  short_description: "用专业但易懂的美术知识，结合真实产品图解释工业设计的美感与功能"
+  default_prompt: "使用 $industrial-design-aesthetics，研究一个生活中的产品，先用白话解释相关美术概念，再结合原图分析美感，交付长文、较短图文版和素材记录。"
