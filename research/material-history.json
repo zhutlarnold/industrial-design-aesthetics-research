@@ -1,18 +1,48 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-05",
+  "updated": "2026-10-06",
   "scope": "This delivery increment only; shared private project history remains the authoritative cross-column record.",
   "cases": [
     {
       "id": "volvo-thors-hammer-headlight",
       "analysis_id": "ida-volvo-ex90-20261005-v01",
-      "relation": "historical_topic_deepening",
-      "publication": "unknown"
+      "relation": "same_article_revision",
+      "publication": "unknown",
+      "revision": "0.2"
     },
     {
       "id": "philippe-starck-juicy-salif",
       "analysis_id": "ida-juicy-salif-20261005-v01",
-      "relation": "new_in_provided_history",
+      "relation": "same_article_revision",
+      "publication": "unknown",
+      "revision": "0.2"
+    },
+    {
+      "id": "polestar-4-headlight",
+      "title": "Polestar 4 前灯",
+      "relation": "comparison_reference_in_existing_article",
+      "article_id": "ida-volvo-ex90-20261005-v01",
+      "publication": "unknown"
+    },
+    {
+      "id": "im-ls7-headlight",
+      "title": "智己 LS7 前灯",
+      "relation": "comparison_reference_in_existing_article",
+      "article_id": "ida-volvo-ex90-20261005-v01",
+      "publication": "unknown"
+    },
+    {
+      "id": "audi-a6-avant-e-tron-headlight",
+      "title": "Audi A6 Avant e-tron 前灯",
+      "relation": "comparison_reference_in_existing_article",
+      "article_id": "ida-volvo-ex90-20261005-v01",
+      "publication": "unknown"
+    },
+    {
+      "id": "opel-grandland-headlight",
+      "title": "Opel Grandland 前灯",
+      "relation": "comparison_reference_in_existing_article",
+      "article_id": "ida-volvo-ex90-20261005-v01",
       "publication": "unknown"
     }
   ],
@@ -43,12 +73,27 @@
         "ida-volvo-ex90-20261005-v01": {
           "skill_name": "industrial-design-aesthetics-research",
           "status": "delivered",
-          "role": "cover",
+          "role": "comparison_reference",
           "delivery_files": [
             "cases/01-volvo-ex90.md",
-            "docs/01-volvo-ex90.html"
+            "cases/01-volvo-ex90-post.txt",
+            "docs/01-volvo-ex90.html",
+            "docs/01-volvo-ex90-short.html"
           ],
-          "reuse_reason": null
+          "reuse_reason": "Same article revision and its long/short editions; user requested revised delivery, not a new article.",
+          "previous_uses": [
+            {
+              "skill_name": "industrial-design-aesthetics-research",
+              "status": "delivered",
+              "role": "cover",
+              "delivery_files": [
+                "cases/01-volvo-ex90.md",
+                "docs/01-volvo-ex90.html"
+              ],
+              "reuse_reason": null
+            }
+          ],
+          "revision": "0.2"
         }
       }
     },
@@ -151,9 +196,24 @@
           "role": "cover",
           "delivery_files": [
             "cases/02-juicy-salif.md",
-            "docs/02-juicy-salif.html"
+            "cases/02-juicy-salif-post.txt",
+            "docs/02-juicy-salif.html",
+            "docs/02-juicy-salif-short.html"
           ],
-          "reuse_reason": null
+          "reuse_reason": "Same article revision and its long/short editions; user requested revised delivery, not a new article.",
+          "previous_uses": [
+            {
+              "skill_name": "industrial-design-aesthetics-research",
+              "status": "delivered",
+              "role": "cover",
+              "delivery_files": [
+                "cases/02-juicy-salif.md",
+                "docs/02-juicy-salif.html"
+              ],
+              "reuse_reason": null
+            }
+          ],
+          "revision": "0.2"
         }
       }
     },
@@ -186,9 +246,24 @@
           "role": "analysis_evidence",
           "delivery_files": [
             "cases/02-juicy-salif.md",
-            "docs/02-juicy-salif.html"
+            "cases/02-juicy-salif-post.txt",
+            "docs/02-juicy-salif.html",
+            "docs/02-juicy-salif-short.html"
           ],
-          "reuse_reason": null
+          "reuse_reason": "Same article revision and its long/short editions; user requested revised delivery, not a new article.",
+          "previous_uses": [
+            {
+              "skill_name": "industrial-design-aesthetics-research",
+              "status": "delivered",
+              "role": "analysis_evidence",
+              "delivery_files": [
+                "cases/02-juicy-salif.md",
+                "docs/02-juicy-salif.html"
+              ],
+              "reuse_reason": null
+            }
+          ],
+          "revision": "0.2"
         }
       }
     },
@@ -221,11 +296,179 @@
           "role": "analysis_evidence",
           "delivery_files": [
             "cases/02-juicy-salif.md",
-            "docs/02-juicy-salif.html"
+            "cases/02-juicy-salif-post.txt",
+            "docs/02-juicy-salif.html",
+            "docs/02-juicy-salif-short.html"
           ],
+          "reuse_reason": "Same article revision and its long/short editions; user requested revised delivery, not a new article.",
+          "previous_uses": [
+            {
+              "skill_name": "industrial-design-aesthetics-research",
+              "status": "delivered",
+              "role": "analysis_evidence",
+              "delivery_files": [
+                "cases/02-juicy-salif.md",
+                "docs/02-juicy-salif.html"
+              ],
+              "reuse_reason": null
+            }
+          ],
+          "revision": "0.2"
+        }
+      }
+    },
+    {
+      "id": "ida-polestar-4-award",
+      "case_id": "polestar-4-headlight",
+      "asset_id": "/uploads/20240131/Fg9T6AAHlVcyGlouMtURNhTaqNCQ.jpg",
+      "media_type": "image",
+      "source_url": "https://cdn.dengdengschool.com/uploads/20240131/Fg9T6AAHlVcyGlouMtURNhTaqNCQ.jpg",
+      "source_page": "https://www.dengdengschool.com/article/zuimeichedengtoupiaohuodong/1667.html",
+      "original_source_url": "https://cdn.dengdengschool.com/uploads/20240131/Fg9T6AAHlVcyGlouMtURNhTaqNCQ.jpg",
+      "sha256": "fcebbf14eb89ddee2b4f8d17e5d5309610253520cb9fe4cceae99a4469089032",
+      "original_sha256": "fcebbf14eb89ddee2b4f8d17e5d5309610253520cb9fe4cceae99a4469089032",
+      "width": 1024,
+      "height": 733,
+      "derived_from": null,
+      "edits": "none",
+      "role": "cover",
+      "dedup": {
+        "result": "no_known_prior_match",
+        "scope": "provided_project_registry",
+        "url_and_sha_checked": true,
+        "visual_inspection": "original_image_reviewed",
+        "cross_ai_complete_history": false
+      },
+      "used_in": {
+        "ida-volvo-ex90-20261005-v01": {
+          "skill_name": "industrial-design-aesthetics-research",
+          "status": "delivered",
+          "role": "cover",
+          "delivery_files": [
+            "cases/01-volvo-ex90.md",
+            "cases/01-volvo-ex90-post.txt",
+            "docs/01-volvo-ex90.html",
+            "docs/01-volvo-ex90-short.html"
+          ],
+          "revision": "0.2",
+          "reuse_reason": null
+        }
+      }
+    },
+    {
+      "id": "ida-ls7-award",
+      "case_id": "im-ls7-headlight",
+      "asset_id": "/uploads/20240131/Fs3zhKw6uyzMB2D02UYwkJvaTSPD.jpg",
+      "media_type": "image",
+      "source_url": "https://cdn.dengdengschool.com/uploads/20240131/Fs3zhKw6uyzMB2D02UYwkJvaTSPD.jpg",
+      "source_page": "https://www.dengdengschool.com/article/zuimeichedengtoupiaohuodong/1667.html",
+      "original_source_url": "https://cdn.dengdengschool.com/uploads/20240131/Fs3zhKw6uyzMB2D02UYwkJvaTSPD.jpg",
+      "sha256": "fb8174f19f0bee997b258edf28c2e9c6f088a1e070ee4cd76e443785bf449248",
+      "original_sha256": "fb8174f19f0bee997b258edf28c2e9c6f088a1e070ee4cd76e443785bf449248",
+      "width": 1080,
+      "height": 795,
+      "derived_from": null,
+      "edits": "none",
+      "role": "analysis_evidence",
+      "dedup": {
+        "result": "no_known_prior_match",
+        "scope": "provided_project_registry",
+        "url_and_sha_checked": true,
+        "visual_inspection": "original_image_reviewed",
+        "cross_ai_complete_history": false
+      },
+      "used_in": {
+        "ida-volvo-ex90-20261005-v01": {
+          "skill_name": "industrial-design-aesthetics-research",
+          "status": "delivered",
+          "role": "analysis_evidence",
+          "delivery_files": [
+            "cases/01-volvo-ex90.md",
+            "cases/01-volvo-ex90-post.txt",
+            "docs/01-volvo-ex90.html",
+            "docs/01-volvo-ex90-short.html"
+          ],
+          "revision": "0.2",
+          "reuse_reason": null
+        }
+      }
+    },
+    {
+      "id": "ida-audi-avant-01",
+      "case_id": "audi-a6-avant-e-tron-headlight",
+      "asset_id": "/system/production/media/126876/images/8a7a0298d3bd7ba30f72634a12a07127babffd14/A244694_web_1440.jpg",
+      "media_type": "image",
+      "source_url": "https://uploads.audi.com/system/production/media/126876/images/8a7a0298d3bd7ba30f72634a12a07127babffd14/A244694_web_1440.jpg?1732629287",
+      "source_page": "https://www.audi.com/en/photos/album/audi-a6-avant-e-tron-2592",
+      "original_source_url": "https://uploads.audi.com/system/production/media/126876/images/8a7a0298d3bd7ba30f72634a12a07127babffd14/A244694_web_1440.jpg?1732629287",
+      "sha256": "07befadd0eb9cc556feb68f85cd9195e28ffef231f427b0f87e6fc0f5d7f74ed",
+      "original_sha256": "07befadd0eb9cc556feb68f85cd9195e28ffef231f427b0f87e6fc0f5d7f74ed",
+      "width": 1440,
+      "height": 959,
+      "derived_from": null,
+      "edits": "none",
+      "role": "analysis_evidence",
+      "dedup": {
+        "result": "no_known_prior_match",
+        "scope": "provided_project_registry",
+        "url_and_sha_checked": true,
+        "visual_inspection": "original_image_reviewed",
+        "cross_ai_complete_history": false
+      },
+      "used_in": {
+        "ida-volvo-ex90-20261005-v01": {
+          "skill_name": "industrial-design-aesthetics-research",
+          "status": "delivered",
+          "role": "analysis_evidence",
+          "delivery_files": [
+            "cases/01-volvo-ex90.md",
+            "cases/01-volvo-ex90-post.txt",
+            "docs/01-volvo-ex90.html",
+            "docs/01-volvo-ex90-short.html"
+          ],
+          "revision": "0.2",
+          "reuse_reason": null
+        }
+      }
+    },
+    {
+      "id": "ida-opel-grandland",
+      "case_id": "opel-grandland-headlight",
+      "asset_id": "/data/images/public/16656993/18069448/771de609-c814-4807-bc69-fe354e0e4deb-w_960.jpg",
+      "media_type": "image",
+      "source_url": "https://kommunikasjon.ntb.no/data/images/public/16656993/18069448/771de609-c814-4807-bc69-fe354e0e4deb-w_960.jpg",
+      "source_page": "https://kommunikasjon.ntb.no/pressemelding/18069448/nye-opel-grandland-fra-konsept-til-virkelighet?lang=no&publisherId=16656993",
+      "original_source_url": "https://kommunikasjon.ntb.no/data/images/public/16656993/18069448/771de609-c814-4807-bc69-fe354e0e4deb-w_960.jpg",
+      "sha256": "78e2b512470710beed0145b5cd34623916a5b581b6ec382e729d7611cca8ef32",
+      "original_sha256": "78e2b512470710beed0145b5cd34623916a5b581b6ec382e729d7611cca8ef32",
+      "width": 960,
+      "height": 641,
+      "derived_from": null,
+      "edits": "none",
+      "role": "analysis_evidence",
+      "dedup": {
+        "result": "no_known_prior_match",
+        "scope": "provided_project_registry",
+        "url_and_sha_checked": true,
+        "visual_inspection": "original_image_reviewed",
+        "cross_ai_complete_history": false
+      },
+      "used_in": {
+        "ida-volvo-ex90-20261005-v01": {
+          "skill_name": "industrial-design-aesthetics-research",
+          "status": "delivered",
+          "role": "analysis_evidence",
+          "delivery_files": [
+            "cases/01-volvo-ex90.md",
+            "cases/01-volvo-ex90-post.txt",
+            "docs/01-volvo-ex90.html",
+            "docs/01-volvo-ex90-short.html"
+          ],
+          "revision": "0.2",
           "reuse_reason": null
         }
       }
     }
-  ]
+  ],
+  "revision": "0.2"
 }
