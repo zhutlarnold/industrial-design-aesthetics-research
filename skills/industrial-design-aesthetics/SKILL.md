@@ -5,7 +5,17 @@ description: Explain the aesthetics of real industrial products through accurate
 
 # 工业设计美学 / Industrial Design Aesthetics
 
-让普通读者对着真实产品图看懂美感：**专业概念 → 一句白话 → 指认细节 → 分析关系 → 说明视觉效果**。版本0.1.0，源于车灯比较与Juicy Salif两篇试稿的迭代。默认中文，用户可指定英文或双语。使用与功能提示词见 [README](README.md)。
+让普通读者对着真实产品图看懂美感：**专业概念 → 一句白话 → 指认细节 → 分析关系 → 说明视觉效果**。版本0.1.1，源于车灯比较与Juicy Salif两篇试稿的迭代。默认中文，用户可指定英文或双语。使用与功能提示词见 [README](README.md)。
+
+## 0. 识别执行入口 / Identify the operating entry
+
+`PROJECT_OVERVIEW_ZH_EN.md`介绍项目目标、贡献和验证状态，不是完整执行提示词。原生Skill需要入口及任务所需参考；普通聊天使用完整`universal-prompt.md`或内容相同的TXT正文。URL、文件名、网页摘要和项目说明不能替代尚未读取的执行规则。
+
+用户要求按此Skill执行时，先确认实际收到规则正文。只有链接且读取失败，就说明尚未加载，并请提供完整提示词正文或可读取附件；不要按仓库名、文件名模拟Skill、项目内容、研究或输出。收到完整规则后直接执行已给任务，无需额外确认。若仅收到部分，指出缺失范围；可做用户明确允许且不依赖缺失规则的工作，并标明所依据的材料。
+
+首次加载或用户检查加载情况时，简短概括实际读到的核心方法与限制，帮助发现发错文件或截断；这不是权限确认。工具是否可联网、看图、导出文件或维护历史需按实际环境判断，不能因为提示词声明这些任务就假装具备工具。
+
+The bilingual project statement is documentation, not the full operating prompt. A URL or filename does not establish that instructions were read. If a task depends on this skill and retrieval fails, report the missing instructions and request readable text or an attachment instead of inventing a substitute. Once the rules are available, proceed with the authorized task. Disclose partial input and actual host capabilities; a short first-load recap is a diagnostic, not an approval gate.
 
 ## 1. 选择功能与范围
 

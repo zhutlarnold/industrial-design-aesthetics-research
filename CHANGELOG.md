@@ -1,5 +1,16 @@
 # 更新记录
 
+## 0.4 · 2026-10-07 (Asia/Shanghai) · Skill 0.1.1使用入口修复
+
+- 依据豆包反馈：项目说明被当执行入口，客户端报告raw读取超时后按元数据模拟内容。网络根因未确定。
+- 区分升学项目说明与完整执行规则；两份中英文说明、README和功能使用说明同步更新。
+- 新增内容一致的完整TXT、附件配套消息和内嵌全文的浏览器复制页，减少对AI抓取GitHub的依赖；复制失败时全选并提示手动复制。
+- Skill和通用提示词补充缺失/截断处理：不假装加载，不按文件名模拟；完整规则到达后直接执行已授权任务，不新增确认环节。
+- 保留原分析方法、11项功能、去重脚本、图片和案例。新旧版本分别打包，旧发布不覆盖。
+- 反馈记录和待执行场景见evaluation；本次交付验证见VALIDATION.md。尚未在豆包重试，不声称跨模型行为通过。
+
+Skill 0.1.1 repairs the chat entry after reported Doubao retrieval failure: explicit document roles, an embedded copy page, an identical TXT prompt, and honest missing-input handling. Existing methods and trials remain unchanged. Delivery checks are distinct from a pending real Doubao retest.
+
 ## 0.3 · 2026-10-06 (Asia/Shanghai) · Skill 0.1.0初版
 
 - 用户授权先提炼完整初版、后续完善，基于两篇v0.2案例整理独立industrial-design-aesthetics Skill。

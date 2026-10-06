@@ -1,6 +1,6 @@
 # 工业设计美学 / Industrial Design Aesthetics
 
-版本 / Version **0.1.0 · 初版 / Initial release**
+版本 / Version **0.1.1 · 使用入口修订 / Chat-entry repair**
 
 ## 中文说明
 
@@ -11,6 +11,11 @@
 This skill explains the aesthetics and function of real industrial products for readers without formal art training. It moves from an accurate art concept to a plain-language definition, visible image evidence, relationships between elements, and the resulting visual impression. It supports single-product readings and comparisons of differently designed peers. Full-length and shorter illustrated editions preserve the same claims; philosophical reflection is not a mandatory ending.
 
 ## 如何使用 / How to use
+
+**普通聊天入口 / Ordinary-chat entry:** 使用完整提示词的正文或可读取附件，不只发送链接。`PROJECT_OVERVIEW_ZH_EN.md`是项目说明，不能代替执行规则。仓库提供内容相同的MD/TXT，以及无需AI抓取GitHub的[网页复制入口](https://zhutlarnold.github.io/industrial-design-aesthetics-research/docs/use-with-ai.html)。读取失败时，AI应说明未加载并请求完整文本，不根据文件名模拟执行。
+
+Use the full prompt as readable text or an attachment. The project statement is not the operating prompt. MD and TXT contain identical rules; the browser copy page embeds the text. A failed fetch must not be represented as successful skill loading.
+
 
 **原生Skill客户端 / Skill-capable clients:** 安装整个 `industrial-design-aesthetics` 文件夹，保留SKILL.md、references、scripts、assets和agents。只复制入口会缺少资料。支持Codex的环境可向安装器发送：
 

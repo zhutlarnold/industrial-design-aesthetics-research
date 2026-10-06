@@ -1,15 +1,28 @@
 # 工业设计美学 / Industrial Design Aesthetics
 
-**完整Skill初版0.1.0已提炼，后续继续完善。** 核心方法：专业概念 → 白话解释 → 原图细节 → 关系分析 → 美感效果。以两篇迭代试稿为开发依据，不将结构检查等同外部模型或读者验收。
+## 发给AI前选对文件 / Choose the right document
 
-**Initial skill release 0.1.0.** Explain the aesthetics of real industrial products using accessible art concepts and source imagery. Developed from two revised trials; structural validation does not establish reader comprehension or cross-model behaviour.
+| 用途 / Purpose | 文件 / File | 使用方式 / How to use |
+|---|---|---|
+| 让豆包等普通AI执行分析 / Run analysis in ordinary chat | [完整TXT](universal-prompt.txt) · [完整Markdown](universal-prompt.md) | 上传可读取附件或复制全部正文；不是只发URL / Attach readable content or paste the entire text, not just its URL |
+| 打开页面复制全文 / Copy the full prompt in a browser | [复制入口](docs/use-with-ai.html) | 你打开页面、复制，再粘贴到AI；页面内含全部规则 / Open, copy and paste; all rules are embedded |
+| 分享项目及升学材料 / Project evidence | [中英文项目说明](PROJECT_OVERVIEW_ZH_EN.md) | 介绍目标、贡献和验证，不代替执行规则 / Purpose, contributions and validation, not operating rules |
+| 原生Skill客户端 / Native skill client | [完整Skill文件夹](skills/industrial-design-aesthetics/) | 安装完整目录，按任务读取参考 / Install the directory and read relevant references |
+
+AI报告读取超时、只看到文件名或没有读到末尾时，不应模拟“已按Skill执行”。改为提供全文；如果仍截断，分段粘贴，最后一段发完再开始任务。完整规则也不会为客户端增加联网、看图或文件导出工具。
+
+If retrieval fails or text is truncated, supply the complete prompt directly; for chunked input, begin the task only after the final chunk. The prompt does not provide missing browsing, vision or export tools.
+
+**完整Skill初版已提炼；当前使用入口修订版0.1.1，后续继续完善。** 核心方法：专业概念 → 白话解释 → 原图细节 → 关系分析 → 美感效果。以两篇迭代试稿为开发依据，不将结构检查等同外部模型或读者验收。
+
+**Skill release 0.1.1 (chat-entry repair).** Explain the aesthetics of real industrial products using accessible art concepts and source imagery. Developed from two revised trials; structural validation does not establish reader comprehension or cross-model behaviour.
 
 - [使用方法与11项功能提示词 / Usage and 11 function prompts](skills/industrial-design-aesthetics/README.md)
 - [Skill指令 / Skill entrypoint](skills/industrial-design-aesthetics/SKILL.md)
 - [普通AI完整单文件提示词 / Complete text-chat prompt](universal-prompt.md)
 - [中英文项目说明与贡献证据 / Bilingual project statement](PROJECT_OVERVIEW_ZH_EN.md)
 - [验证 / Validation](VALIDATION.md) · [更新记录 / Changelog](CHANGELOG.md)
-- [下载Skill及Plugin / Download](https://github.com/zhutlarnold/industrial-design-aesthetics-research/releases/tag/v0.1.0-skill)
+- [下载Skill及Plugin / Download](https://github.com/zhutlarnold/industrial-design-aesthetics-research/releases/tag/v0.1.1-skill)
 
 安装示例 / Installation prompt:
 

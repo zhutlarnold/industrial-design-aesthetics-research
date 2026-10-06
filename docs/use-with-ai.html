@@ -1,4 +1,12 @@
-BEGIN_INDUSTRIAL_DESIGN_AESTHETICS_0_1_1
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>工业设计美学 · 复制到AI</title><style>*{box-sizing:border-box}body{margin:0;background:#faf9f6;color:#242522;font-family:"Microsoft YaHei",system-ui,sans-serif;line-height:1.8}main{max-width:860px;margin:auto;padding:28px 22px 50px}h1{font-size:28px;line-height:1.4}h2{font-size:21px;margin-top:30px}a{color:#355765;overflow-wrap:anywhere}p,li{font-size:16px}button{font:inherit;cursor:pointer;padding:10px 18px;border-radius:7px;border:1px solid #355765;background:#355765;color:white;margin:6px 10px 6px 0}textarea{display:block;width:100%;height:340px;padding:16px;border:1px solid #bbb;border-radius:6px;background:white;color:#242522;font:14px/1.7 ui-monospace,monospace;resize:vertical}#status{min-height:28px;font-size:14px;color:#355765}.meta{font-size:13px;color:#626760}pre{white-space:pre-wrap;overflow-wrap:anywhere;padding:16px;background:white;border:1px solid #ddd;border-radius:6px}@media(max-width:480px){main{padding:20px 18px}h1{font-size:25px}}</style></head><body><main>
+<nav><a href="index.html">返回案例 / Cases</a> · <a href="../README.md">使用说明 / Usage</a></nav>
+<p class="meta">Skill 0.1.1 · 完整提示词 / Complete prompt</p><h1>把完整规则复制到AI</h1>
+<p>这是给你打开并复制的页面。把这个页面的链接发给AI，仍可能读取失败。下面已放入全部规则，不依赖页面再抓取GitHub。</p>
+<p>This page embeds the full prompt. Open it yourself and paste the contents into your AI chat; sending its URL alone may still fail.</p>
+<ol><li>点击“复制完整提示词”，粘贴到豆包等AI；若一次发不完，分段发送并在最后一段说明已发完。</li><li>也可以下载TXT作为附件；客户端不支持该格式就直接粘贴正文。</li><li>附最新共同历史、原始产品图片和具体任务。只有链接或项目说明时，不能视作Skill已加载。</li></ol>
+<p><a href="../universal-prompt.txt" download>下载完整TXT</a> · <a href="../universal-prompt.md" download>下载完整MD</a> · <a href="../PROJECT_OVERVIEW_ZH_EN.md">升学用中英文项目说明（不是执行规则）</a></p>
+<button id="copy" type="button">复制完整提示词</button><button id="select" type="button">全选，手动复制</button><p id="status" role="status" aria-live="polite">全文有起止标记；检查末尾以发现截断。标记本身不能证明AI理解了全部规则。</p>
+<label for="prompt">完整规则 / Full operating rules</label><textarea id="prompt" readonly spellcheck="false">BEGIN_INDUSTRIAL_DESIGN_AESTHETICS_0_1_1
 
 # 工业设计美学：完整通用AI提示词 / Complete universal prompt
 
@@ -281,3 +289,20 @@ Evidence supports a bounded claim. An award, a marketing release and its reposts
 The final article should teach the reader to see. Do not promise universal appeal, an “AI-free” impression, or a platform outcome that has not been measured.
 
 END_INDUSTRIAL_DESIGN_AESTHETICS_0_1_1
+</textarea>
+<h2>第一次发送时可附这句话</h2><pre>请按我同时上传或粘贴的《工业设计美学完整通用AI提示词》执行。先确认你实际读到了完整正文及末尾标记，简短说明核心方法、素材去重和数据限制。如果没有读到正文或内容被截断，直接指出缺少什么，不根据文件名模拟创作。
+
+这次先检查加载情况，暂时不生成案例。后续我会给具体产品、图片和最新历史。
+
+Please use the complete operating prompt supplied with this message. Check that its actual contents and ending were read, and briefly explain the core method, material deduplication and limits of ranking evidence. If missing or truncated, report the gap rather than inventing a substitute. For now, check loading only; do not generate a case.
+
+说明：这段话是附件配套消息，单独发送不会加载完整Skill。
+Note: this companion message does not contain or load the full skill by itself.
+</pre>
+<p class="meta">提示词不能为AI增加联网、看图或文件导出工具。0.1.1修订尚未在豆包重新试跑；记录见 <a href="../evaluation/doubao-feedback-20261007.md">问题与验证范围</a>。</p>
+</main><script>
+const area=document.getElementById('prompt'),status=document.getElementById('status');
+function selectPrompt(){area.focus();area.select();area.setSelectionRange(0,area.value.length);status.textContent='已全选完整规则。请按 Ctrl+C（Mac 用 Command+C），再到AI聊天框粘贴。';}
+async function copyPrompt(){try{if(!navigator.clipboard||!navigator.clipboard.writeText)throw new Error('clipboard unavailable');await navigator.clipboard.writeText(area.value);status.textContent='完整提示词已复制。请粘贴到AI，并附任务和最新历史。';}catch(error){selectPrompt();}}
+document.getElementById('copy').addEventListener('click',copyPrompt);document.getElementById('select').addEventListener('click',selectPrompt);
+</script></body></html>

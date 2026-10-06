@@ -1,3 +1,19 @@
+# Skill 0.1.1使用入口修复验证 / Chat-entry repair checks
+
+2026-10-07 (Asia/Shanghai)。本次为入口与交付修复，保留原案例和登记脚本。
+
+- 官方skill-creator格式验证通过；相对文档/HTML资源链接有效，中英文项目说明根目录与Skill目录副本一致。
+- 完整MD与TXT字节一致；复制页内嵌全文，在浏览器中读取的textarea正文与源文本逐字一致，起止标记完整。页面不依赖远程加载规则正文。
+- 390px和1280px浏览器视口无横向溢出；模拟剪贴板权限拒绝时选中全部实际正文并给手动复制提示；“全选”按钮也选中全文。此项不等于验证豆包粘贴或操作系统剪贴板写入。
+- 两个0.1.1 ZIP逐文件解包核对源内容；仅打包公开Skill、清单及使用资料，不含本机路径或私有验证依赖。
+- 当前Codex网络路径的4个原入口HTTP200；截图不能确定豆包网络根因。记录见[evaluation/doubao-feedback-20261007.md](evaluation/doubao-feedback-20261007.md)。
+
+Checks establish document roles, complete embedded text, byte-identical MD/TXT, local links, package integrity and browser selection fallback at two viewports. They do not establish clipboard writes, Doubao retrieval, model compliance or reader comprehension. Existing registry tests are historical, not newly rerun for unchanged code.
+
+尚未在豆包重新试跑。新回归场景列为待执行；需要用户提供实际加载与案例输出验证。0.1.0及原案例验证记录保留如下。
+
+---
+
 # Skill 0.1.0初版验证 / Initial skill validation
 
 2026-10-06 (Asia/Shanghai)。本次新执行的检查：

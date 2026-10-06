@@ -1,5 +1,9 @@
 # 生活中的工业设计：美学与功能 / Industrial Design Aesthetics and Function
 
+> **文档用途：项目说明，不是执行提示词。** 本文用于介绍项目及贡献，适合分享和升学材料引用。若要让AI分析产品，请提供完整`universal-prompt.md`或`universal-prompt.txt`的正文；仅发送本文链接不会加载Skill。
+>
+> **Document role: project statement, not an operating prompt.** For product analysis, provide the complete universal prompt as readable text or an attachment. This statement documents purpose and contributions; its URL does not load the skill.
+
 中英文项目说明 / Bilingual project statement · 2026-10-06 (Asia/Shanghai)
 
 ## 项目目标 / Project purpose
@@ -43,9 +47,9 @@ A five-design headlight comparison and a single-product Juicy Salif reading, eac
 
 ## 验证状态与边界 / Validation status and limits
 
-Skill 0.1.0初版；基于两篇迭代试稿。文件结构与离线脚本检查不等于外部模型、读者理解或传播效果验证。
+Skill 0.1.1使用入口修订版；分析方法基于两篇迭代试稿。本次依据豆包读取失败反馈区分说明与执行入口，提供完整TXT及复制页面；尚未在豆包重新试跑。文件结构与离线脚本检查不等于外部模型、读者理解或传播效果验证。
 
-Initial skill version 0.1.0, distilled from two revised trials. Structure and offline-script checks are not evidence of external-model behaviour, reader comprehension or reach.
+Skill version 0.1.1 clarifies the operating entry and adds a full TXT prompt and copy page after user-reported Doubao retrieval failure. The analysis method remains based on two revised trials; this patch has not been rerun in Doubao. Structure and offline-script checks are not evidence of external-model behaviour, reader comprehension or reach.
 
 研究、用户认可、文件交付、公开仓库上传与社交平台发布分别记录。没有平台数据，不写播放量、读者增长、点击率、真实社会影响或活动参与人数。公开源代码不是单独完成或被高校认可的证明，项目材料应附具体版本、输出与贡献描述。
 

@@ -1,0 +1,8 @@
+请按我同时上传或粘贴的《工业设计美学完整通用AI提示词》执行。先确认你实际读到了完整正文及末尾标记，简短说明核心方法、素材去重和数据限制。如果没有读到正文或内容被截断，直接指出缺少什么，不根据文件名模拟创作。
+
+这次先检查加载情况，暂时不生成案例。后续我会给具体产品、图片和最新历史。
+
+Please use the complete operating prompt supplied with this message. Check that its actual contents and ending were read, and briefly explain the core method, material deduplication and limits of ranking evidence. If missing or truncated, report the gap rather than inventing a substitute. For now, check loading only; do not generate a case.
+
+说明：这段话是附件配套消息，单独发送不会加载完整Skill。
+Note: this companion message does not contain or load the full skill by itself.

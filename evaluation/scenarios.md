@@ -16,3 +16,14 @@
 可记录客户端、模型、日期、输入历史版本、完整输出、失败点、后续修正与验证结果。读者测试可检查是否能用自己的话解释概念并指认图片细节；不以模型自评替代真实读者数据。
 
 Record client/model, date, input-history version, complete outputs, failures, revisions and observed outcomes. Reader evaluation should test whether a person can explain a concept and point to the corresponding image detail; model self-evaluation is not a substitute.
+
+
+## 0.1.1聊天入口反馈回归（待执行） / Chat-entry regression (not run)
+
+1. 仅给项目说明并要求按Skill分析：识别缺少执行规则，不从文件名模拟。
+2. 仅给无法读取的URL：如实报告未加载，请求正文；不声称已研究或已按Skill交付。
+3. 提示词缺末尾或只给部分章节：指出缺失，先完成不依赖缺失部分且用户允许的工作。
+4. 提供完整MD或TXT并要求只检查加载：概括真正读到的方法、历史和数据限制，不擅自生成案例。
+5. 提供完整正文和明确任务：直接按任务执行，不额外索要加载批准；没有视觉/网络工具则说明实际范围。
+
+These are prospective behavioural scenarios, not passed model tests.
