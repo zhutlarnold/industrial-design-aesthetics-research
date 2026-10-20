@@ -1,0 +1,207 @@
+{
+  "revision": "0.3.2-review-20261020",
+  "status": "draft_delivered_not_published",
+  "base_history": "material-history-base.json",
+  "history_scope": "Public partial snapshot, not a complete cross-skill registry. This is a revision increment, not an empty reset.",
+  "new_cases": 0,
+  "new_images": 0,
+  "same_article_revisions": [
+    "ida-volvo-ex90-20261005-v01",
+    "ida-juicy-salif-20261005-v01"
+  ],
+  "images": [
+    {
+      "id": "ida-audi-avant-01",
+      "case_id": "audi-a6-avant-e-tron-headlight",
+      "asset_id": "/system/production/media/126876/images/8a7a0298d3bd7ba30f72634a12a07127babffd14/A244694_web_1440.jpg",
+      "media_type": "image",
+      "source_url": "https://uploads.audi.com/system/production/media/126876/images/8a7a0298d3bd7ba30f72634a12a07127babffd14/A244694_web_1440.jpg?1732629287",
+      "source_page": "https://www.audi.com/en/photos/album/audi-a6-avant-e-tron-2592",
+      "original_source_url": "https://uploads.audi.com/system/production/media/126876/images/8a7a0298d3bd7ba30f72634a12a07127babffd14/A244694_web_1440.jpg?1732629287",
+      "sha256": "07befadd0eb9cc556feb68f85cd9195e28ffef231f427b0f87e6fc0f5d7f74ed",
+      "original_sha256": "07befadd0eb9cc556feb68f85cd9195e28ffef231f427b0f87e6fc0f5d7f74ed",
+      "width": 1440,
+      "height": 959,
+      "derived_from": null,
+      "edits": "none",
+      "role": "analysis_evidence",
+      "dedup": {
+        "result": "no_known_prior_match",
+        "scope": "provided_project_registry",
+        "url_and_sha_checked": true,
+        "visual_inspection": "original_image_reviewed",
+        "cross_ai_complete_history": false
+      },
+      "used_in": [
+        "01-headlights",
+        "01-headlights-short"
+      ],
+      "local_filename": "audi-avant-01.jpg",
+      "relation": "same_article_revision",
+      "revision": "0.3.2-review-20261020",
+      "new_asset": false,
+      "reuse_reason": "Existing photographs reused in the same two article revisions; no newly generated or downloaded images."
+    },
+    {
+      "id": "ida-volvo-front",
+      "case_id": "volvo-thors-hammer-headlight",
+      "asset_id": "cdn-493644",
+      "media_type": "image",
+      "source_url": "https://image.cardesignnews.com/493644.webp?format=jpg&height=642&imageId=493644&width=960",
+      "source_page": "https://www.cardesignnews.com/lighting/volvo-on-people-awards-win-and-lighting-design/493617",
+      "original_source_url": "https://image.cardesignnews.com/493644.webp?format=jpg&height=642&imageId=493644&width=960",
+      "sha256": "64a32cbaa86e15b8199398eab7380f4bd0a16003e72464150cb6fd5faf24e256",
+      "original_sha256": "64a32cbaa86e15b8199398eab7380f4bd0a16003e72464150cb6fd5faf24e256",
+      "width": 960,
+      "height": 642,
+      "derived_from": null,
+      "edits": "none",
+      "role": "cover",
+      "dedup": {
+        "result": "no_known_prior_match",
+        "scope": "provided_project_registry",
+        "url_and_sha_checked": true,
+        "visual_inspection": "individual_originals_reviewed",
+        "cross_ai_complete_history": false
+      },
+      "used_in": [
+        "01-headlights",
+        "01-headlights-short"
+      ],
+      "local_filename": "volvo-front.jpg",
+      "relation": "same_article_revision",
+      "revision": "0.3.2-review-20261020",
+      "new_asset": false,
+      "reuse_reason": "Existing photographs reused in the same two article revisions; no newly generated or downloaded images."
+    },
+    {
+      "id": "ida-volvo-mechanism-3",
+      "case_id": "volvo-thors-hammer-headlight",
+      "asset_id": "cdn-494312",
+      "media_type": "image",
+      "source_url": "https://image.cardesignnews.com/494312.webp?format=jpg&height=642&imageId=494312&width=960",
+      "source_page": "https://www.cardesignnews.com/lighting/volvo-on-people-awards-win-and-lighting-design/493617",
+      "original_source_url": "https://image.cardesignnews.com/494312.webp?format=jpg&height=642&imageId=494312&width=960",
+      "sha256": "854d87ce43c1b9561f2ee52eb26d685cd2d417e8864ac07934288c4ab936cb7c",
+      "original_sha256": "854d87ce43c1b9561f2ee52eb26d685cd2d417e8864ac07934288c4ab936cb7c",
+      "width": 960,
+      "height": 642,
+      "derived_from": null,
+      "edits": "none",
+      "role": "analysis_evidence",
+      "dedup": {
+        "result": "no_known_prior_match",
+        "scope": "provided_project_registry",
+        "url_and_sha_checked": true,
+        "visual_inspection": "individual_originals_reviewed",
+        "cross_ai_complete_history": false
+      },
+      "used_in": [
+        "01-headlights"
+      ],
+      "local_filename": "volvo-mechanism-3.jpg",
+      "relation": "same_article_revision",
+      "revision": "0.3.2-review-20261020",
+      "new_asset": false,
+      "reuse_reason": "Existing photographs reused in the same two article revisions; no newly generated or downloaded images."
+    },
+    {
+      "id": "ida-opel-grandland",
+      "case_id": "opel-grandland-headlight",
+      "asset_id": "/data/images/public/16656993/18069448/771de609-c814-4807-bc69-fe354e0e4deb-w_960.jpg",
+      "media_type": "image",
+      "source_url": "https://kommunikasjon.ntb.no/data/images/public/16656993/18069448/771de609-c814-4807-bc69-fe354e0e4deb-w_960.jpg",
+      "source_page": "https://kommunikasjon.ntb.no/pressemelding/18069448/nye-opel-grandland-fra-konsept-til-virkelighet?lang=no&publisherId=16656993",
+      "original_source_url": "https://kommunikasjon.ntb.no/data/images/public/16656993/18069448/771de609-c814-4807-bc69-fe354e0e4deb-w_960.jpg",
+      "sha256": "78e2b512470710beed0145b5cd34623916a5b581b6ec382e729d7611cca8ef32",
+      "original_sha256": "78e2b512470710beed0145b5cd34623916a5b581b6ec382e729d7611cca8ef32",
+      "width": 960,
+      "height": 641,
+      "derived_from": null,
+      "edits": "none",
+      "role": "analysis_evidence",
+      "dedup": {
+        "result": "no_known_prior_match",
+        "scope": "provided_project_registry",
+        "url_and_sha_checked": true,
+        "visual_inspection": "original_image_reviewed",
+        "cross_ai_complete_history": false
+      },
+      "used_in": [
+        "01-headlights",
+        "01-headlights-short"
+      ],
+      "local_filename": "opel-grandland.jpg",
+      "relation": "same_article_revision",
+      "revision": "0.3.2-review-20261020",
+      "new_asset": false,
+      "reuse_reason": "Existing photographs reused in the same two article revisions; no newly generated or downloaded images."
+    },
+    {
+      "id": "ida-salif-context",
+      "case_id": "philippe-starck-juicy-salif",
+      "asset_id": "/00DATA/cms/design/juicy-salif/juicy-salif-33.jpg",
+      "media_type": "image",
+      "source_url": "https://www.starck.com/00DATA/cms/design/juicy-salif/juicy-salif-33.jpg",
+      "source_page": "https://www.starck.com/juicy-salif-alessi-p2009",
+      "original_source_url": "https://www.starck.com/00DATA/cms/design/juicy-salif/juicy-salif-33.jpg",
+      "sha256": "489200b7176f2c0d5a2a5c26e7014ac9b006bee44cba05f06d04937493546de6",
+      "original_sha256": "489200b7176f2c0d5a2a5c26e7014ac9b006bee44cba05f06d04937493546de6",
+      "width": 1290,
+      "height": 1637,
+      "derived_from": null,
+      "edits": "none",
+      "role": "cover",
+      "dedup": {
+        "result": "no_known_prior_match",
+        "scope": "provided_project_registry",
+        "url_and_sha_checked": true,
+        "visual_inspection": "individual_originals_reviewed",
+        "cross_ai_complete_history": false
+      },
+      "used_in": [
+        "02-juicy-salif",
+        "02-juicy-salif-short"
+      ],
+      "local_filename": "salif-context.jpg",
+      "relation": "same_article_revision",
+      "revision": "0.3.2-review-20261020",
+      "new_asset": false,
+      "reuse_reason": "Existing photographs reused in the same two article revisions; no newly generated or downloaded images."
+    },
+    {
+      "id": "ida-salif-action",
+      "case_id": "philippe-starck-juicy-salif",
+      "asset_id": "/00DATA/cms/design/juicy-salif/juicy-salif-2.jpg",
+      "media_type": "image",
+      "source_url": "https://www.starck.com/00DATA/cms/design/juicy-salif/juicy-salif-2.jpg",
+      "source_page": "https://www.starck.com/juicy-salif-alessi-p2009",
+      "original_source_url": "https://www.starck.com/00DATA/cms/design/juicy-salif/juicy-salif-2.jpg",
+      "sha256": "4f5062a05f36cbf15d48d4c867191e4c2cc383c4504565687e4aa7f4a04d924e",
+      "original_sha256": "4f5062a05f36cbf15d48d4c867191e4c2cc383c4504565687e4aa7f4a04d924e",
+      "width": 960,
+      "height": 1229,
+      "derived_from": null,
+      "edits": "none",
+      "role": "analysis_evidence",
+      "dedup": {
+        "result": "no_known_prior_match",
+        "scope": "provided_project_registry",
+        "url_and_sha_checked": true,
+        "visual_inspection": "individual_originals_reviewed",
+        "cross_ai_complete_history": false
+      },
+      "used_in": [
+        "02-juicy-salif",
+        "02-juicy-salif-short"
+      ],
+      "local_filename": "salif-action.jpg",
+      "relation": "same_article_revision",
+      "revision": "0.3.2-review-20261020",
+      "new_asset": false,
+      "reuse_reason": "Existing photographs reused in the same two article revisions; no newly generated or downloaded images."
+    }
+  ],
+  "previous_increment": "function-rewrite-20261020-v02/delivery/research/material-history-revision.json",
+  "revision_reason": "User-requested scope sentence and added visual analysis tied to use; explicit long-form links."
+}

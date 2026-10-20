@@ -1,0 +1,51 @@
+细长车灯背后的照明设计
+
+车头那条最醒目的细灯带，未必是夜里照路的主灯。日行灯帮助其他人注意到车辆，近光和远光负责道路照明，转向灯传递方向意图。迎宾动画的用途又不同。它们可以容纳在同一灯组里，但不能只凭发光轮廓判断使用效果。[1][2]
+
+Audi A6 e-tron：灯组布置
+
+A6 e-tron 的团队希望车头低而扁，主要照明部件却需要空间。他们把较大的部件融入暗色面罩，让上部日行灯维持纤细。[3]
+
+明亮细线先被注意到，大部件在黑色背景中不那么突出。这种视觉主次配合了技术布置，但不能证明照明更好，也不能从主灯位置推断眩光更少。
+
+Volvo EX90：开合结构
+
+EX90 把较大的远光模块放在 T 形灯带后方，让横向部分上下分开，为模块让路。开合也被做成了类似睁眼的迎宾效果。[4][5]
+
+团队为保留简洁外观增加了结构复杂度。迎宾动画则有不同的用户反馈：公开讨论中，有人觉得点亮突兀，也有人喜欢。几条自述不代表整体偏好，但触发时机与频率确实是实际使用中需要考虑的条件。[6]
+
+Opel Grandland：光束控制
+
+Opel 说明，其 Intelli-Lux HD 系统用摄像头识别前方及对向交通，再调整照射区域，目标是兼顾道路照明与对其他人的干扰。这个机制与前脸发光图形的造型不同，不能用标志的辨识度代替照明评价。厂商说明也需要独立测试来验证效果。[7]
+
+夜间照明测试
+
+IIHS 同时评价照明与对向眩光。美规 EX90 所列 2025—2026 年款配置获 A（可接受）：近光在测试条件下未超眩光限值，但缓左弯照明不足。该结果不能套给其他市场的不同配置，也没有评价迎宾动画或行人的观看舒适度。[8][1]
+
+#工业设计 #汽车设计 #车灯 #设计与生活
+
+——以下为核对来源，可与正文分开保存——
+
+[1] IIHS 前灯研究与评价说明
+https://www.iihs.org/research-areas/headlights
+
+[2] Polestar 4 2025美规使用手册 行车灯
+https://www.polestar.com/us/manual/polestar-4/2025/article/47d2c97fd33effd3c0a8cc3718c999b7-15e6c6ef2c80fc51c0a8b0976963d3a1-8664b2fa77a7e089c0a8296870d1a409/
+
+[3] Audi A6 e-tron 外观设计师访谈
+https://www.audi.com/en/press-releases/audi-a6-e-tron-as-exciting-as-the-show-car-16122
+
+[4] Volvo EX90设计团队访谈
+https://www.cardesignnews.com/cars/the-volvo-team-unpacks-the-ex90/449332
+
+[5] Volvo瑞士官网 EX90灯组开合说明
+https://www.volvocars.com/de-ch/news/corporate/volvo-ex90-das-zwinkern-von-thors-hammer/
+
+[6] EX90车主讨论 迎宾灯动画体验
+https://www.reddit.com/r/VolvoEX90/comments/1r6tbjf/opinions_headlight_welcome_sequence/
+
+[7] Opel Grandland Intelli-Lux HD官方说明
+https://www.media.stellantis.com/em-en/opel/press/new-opel-grandland-with-intelli-lux-hd-light-br-scary-nights-a-thing-of-the-past
+
+[8] IIHS 2025 Volvo EX90前灯评价
+https://www.iihs.org/ratings/vehicle/volvo/ex90-4-door-suv/2025

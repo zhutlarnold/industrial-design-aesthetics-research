@@ -1,5 +1,15 @@
 # 工业设计美学 / Industrial Design Aesthetics
 
+## 2026-10-20 案例审阅更新 / Case drafts for review
+
+本日案例开始按“使用任务 → 形态选择 → 对人的影响”修订，并保留易懂的美术分析。**案例 v0.3.2 为审阅稿；现有 Skill 0.1.1 尚未同步本轮方法。**
+
+- [车灯：完整长版](revisions/2026-10-20/v0.3.2/cases/01-headlights-long.md)
+- [Juicy Salif：完整长版](revisions/2026-10-20/v0.3.2/cases/02-juicy-salif-long.md)
+- [详细更新日志与历史正文](research/revision-history/2026-10-20.md)
+
+The revised case drafts connect form with use and human effects. They remain review material; the released Skill has not yet incorporated this method revision.
+
 ## 发给AI前选对文件 / Choose the right document
 
 | 用途 / Purpose | 文件 / File | 使用方式 / How to use |

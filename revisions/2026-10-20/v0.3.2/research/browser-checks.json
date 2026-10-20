@@ -1,0 +1,91 @@
+{
+  "local_link_errors": [],
+  "checks": [
+    {
+      "page": "index",
+      "viewport": 390,
+      "no_horizontal_overflow": true,
+      "images_loaded": 0
+    },
+    {
+      "page": "index",
+      "viewport": 1280,
+      "no_horizontal_overflow": true,
+      "images_loaded": 0
+    },
+    {
+      "page": "01-headlights",
+      "viewport": 390,
+      "no_horizontal_overflow": true,
+      "images_loaded": 4
+    },
+    {
+      "page": "01-headlights",
+      "viewport": 1280,
+      "no_horizontal_overflow": true,
+      "images_loaded": 4
+    },
+    {
+      "page": "01-headlights-short",
+      "viewport": 390,
+      "no_horizontal_overflow": true,
+      "images_loaded": 3
+    },
+    {
+      "page": "01-headlights-short",
+      "viewport": 1280,
+      "no_horizontal_overflow": true,
+      "images_loaded": 3
+    },
+    {
+      "page": "02-juicy-salif",
+      "viewport": 390,
+      "no_horizontal_overflow": true,
+      "images_loaded": 2
+    },
+    {
+      "page": "02-juicy-salif",
+      "viewport": 1280,
+      "no_horizontal_overflow": true,
+      "images_loaded": 2
+    },
+    {
+      "page": "02-juicy-salif-short",
+      "viewport": 390,
+      "no_horizontal_overflow": true,
+      "images_loaded": 2
+    },
+    {
+      "page": "02-juicy-salif-short",
+      "viewport": 1280,
+      "no_horizontal_overflow": true,
+      "images_loaded": 2
+    },
+    {
+      "page": "01-headlights-long",
+      "viewport": 390,
+      "no_horizontal_overflow": true,
+      "images_loaded": 4
+    },
+    {
+      "page": "01-headlights-long",
+      "viewport": 1280,
+      "no_horizontal_overflow": true,
+      "images_loaded": 4
+    },
+    {
+      "page": "02-juicy-salif-long",
+      "viewport": 390,
+      "no_horizontal_overflow": true,
+      "images_loaded": 2
+    },
+    {
+      "page": "02-juicy-salif-long",
+      "viewport": 1280,
+      "no_horizontal_overflow": true,
+      "images_loaded": 2
+    }
+  ],
+  "visual_review": "Reviewed both dedicated long-form pages at mobile top/middle/end; all seven page routes checked at 390 and 1280 pixels, with no broken local links or unloaded images.",
+  "revision": "0.3.2"
+}

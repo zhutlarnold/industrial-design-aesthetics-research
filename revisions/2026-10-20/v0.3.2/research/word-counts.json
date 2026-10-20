@@ -1,0 +1,62 @@
+{
+  "body_rule": "paragraphs only; includes punctuation and each English letter; excludes whitespace, citations, headings, title, captions, tags, sources",
+  "display_rule": "title+subtitle+headings+paragraphs+captions+tags; excludes whitespace, citations, navigation and research appendix",
+  "rows": [
+    {
+      "key": "01-headlights",
+      "edition": "完整长版",
+      "old": {
+        "body_characters": 1439,
+        "body_han": 1214,
+        "display_characters": 1752
+      },
+      "new": {
+        "body_characters": 1434,
+        "body_han": 1210,
+        "display_characters": 1747
+      }
+    },
+    {
+      "key": "01-headlights-short",
+      "edition": "精简短版",
+      "old": {
+        "body_characters": 581,
+        "body_han": 490,
+        "display_characters": 769
+      },
+      "new": {
+        "body_characters": 581,
+        "body_han": 490,
+        "display_characters": 769
+      }
+    },
+    {
+      "key": "02-juicy-salif",
+      "edition": "完整长版",
+      "old": {
+        "body_characters": 1091,
+        "body_han": 912,
+        "display_characters": 1252
+      },
+      "new": {
+        "body_characters": 1412,
+        "body_han": 1194,
+        "display_characters": 1590
+      }
+    },
+    {
+      "key": "02-juicy-salif-short",
+      "edition": "精简短版",
+      "old": {
+        "body_characters": 547,
+        "body_han": 459,
+        "display_characters": 667
+      },
+      "new": {
+        "body_characters": 639,
+        "body_han": 542,
+        "display_characters": 776
+      }
+    }
+  ]
+}

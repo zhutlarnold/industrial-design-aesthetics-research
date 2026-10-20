@@ -1,5 +1,15 @@
 # 更新记录
 
+## 2026-10-20 (Asia/Singapore) · 案例 v0.3—v0.3.2 研究与修订记录
+
+- 补录本日提纲、19条研究线索、功能方向重写、文风修订及美术分析补充；各阶段原因、字数、源记录与验收边界见 [详细日志](research/revision-history/2026-10-20.md)。
+- 当前案例把使用任务、形态选择与对人的影响联系起来；v0.3.2补回榨汁器比例、负空间、轮廓收束和线条节奏，车灯导语改为直接介绍范围。
+- 新增独立审阅归档及明确的长版图文、Markdown、TXT入口；保留旧案例和页面。六张真实照片同稿复用，不计新增案例或素材。
+- 检查本地链接、14种页面/宽度组合、图片哈希和长版手机截图；尚未完成本版用户阅读验收，不把形式解读当性能试验。
+- 本次是案例与研究更新，原生Skill仍为0.1.1；没有修改Skill指令、通用提示词或发布新Skill包。
+
+Case revisions 0.3–0.3.2 are archived with evidence notes, source snapshots, explicit long-form links, and validation limits. Original cases and media identities are preserved. The native Skill remains at 0.1.1 pending review.
+
 ## 0.4 · 2026-10-07 (Asia/Shanghai) · Skill 0.1.1使用入口修复
 
 - 依据豆包反馈：项目说明被当执行入口，客户端报告raw读取超时后按元数据模拟内容。网络根因未确定。

@@ -1,0 +1,14 @@
+{
+  "revision": "0.3.2-review-20261020",
+  "unique_media": 6,
+  "image_hashes_verified": true,
+  "protected_repo_hashes": {
+    "cases/01-volvo-ex90.md": "54a85ef1b80d1a85c4cc05efc1361e7df1938b0f301f1b2c53e6e959d99dcd92",
+    "cases/02-juicy-salif.md": "7dc671459a6fbf201109c140b8071ae27d3a66fd69c9be3956cd0569ace28b0a",
+    "skills/industrial-design-aesthetics/SKILL.md": "d1806eac7e9d960ad5466ad8a2b1bfb15d9706601e68d9e408f70814d7c715f0"
+  },
+  "word_counts": "word-counts.json",
+  "reader_acceptance": "not_tested",
+  "skill_changed": false,
+  "github_changed": false
+}
