@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-21 Asia/Singapore",
+  "scope": "Existing case re-export only; no new case identities or new media.",
+  "files": [
+    {
+      "file": "01_工业设计_车灯_完整长版.html",
+      "source": "industrial-design-research-20261005\\function-rewrite-20261020-v03\\delivery\\docs\\01-headlights-long.html",
+      "kind": "current_long_article",
+      "original_article_text_unchanged": true,
+      "images": [
+        {
+          "file": "audi-avant-01.jpg",
+          "sha256": "07befadd0eb9cc556feb68f85cd9195e28ffef231f427b0f87e6fc0f5d7f74ed"
+        },
+        {
+          "file": "volvo-front.jpg",
+          "sha256": "64a32cbaa86e15b8199398eab7380f4bd0a16003e72464150cb6fd5faf24e256"
+        },
+        {
+          "file": "volvo-mechanism-3.jpg",
+          "sha256": "854d87ce43c1b9561f2ee52eb26d685cd2d417e8864ac07934288c4ab936cb7c"
+        },
+        {
+          "file": "opel-grandland.jpg",
+          "sha256": "78e2b512470710beed0145b5cd34623916a5b581b6ec382e729d7611cca8ef32"
+        }
+      ],
+      "standalone": true,
+      "bytes": 639117,
+      "sha256": "ded38883c5b32b900e591f4262ef29699991d1d2023b8c5edff2ce903d8282a9",
+      "embedded_images": 4
+    },
+    {
+      "file": "02_工业设计_JuicySalif_完整长版.html",
+      "source": "industrial-design-research-20261005\\function-rewrite-20261020-v03\\delivery\\docs\\02-juicy-salif-long.html",
+      "kind": "current_long_article",
+      "original_article_text_unchanged": true,
+      "images": [
+        {
+          "file": "salif-context.jpg",
+          "sha256": "489200b7176f2c0d5a2a5c26e7014ac9b006bee44cba05f06d04937493546de6"
+        },
+        {
+          "file": "salif-action.jpg",
+          "sha256": "4f5062a05f36cbf15d48d4c867191e4c2cc383c4504565687e4aa7f4a04d924e"
+        }
+      ],
+      "standalone": true,
+      "bytes": 623545,
+      "sha256": "d5ec48f8363286beaa0eff9349673c5936e46da6e937989da4f46c20165eafd9",
+      "embedded_images": 2
+    }
+  ],
+  "offline_network_blocking": true,
+  "browser_checks": [
+    {
+      "page": "01_工业设计_车灯_完整长版",
+      "viewport": 390,
+      "no_horizontal_overflow": true,
+      "images_loaded": 4
+    },
+    {
+      "page": "01_工业设计_车灯_完整长版",
+      "viewport": 1280,
+      "no_horizontal_overflow": true,
+      "images_loaded": 4
+    },
+    {
+      "page": "02_工业设计_JuicySalif_完整长版",
+      "viewport": 390,
+      "no_horizontal_overflow": true,
+      "images_loaded": 2
+    },
+    {
+      "page": "02_工业设计_JuicySalif_完整长版",
+      "viewport": 1280,
+      "no_horizontal_overflow": true,
+      "images_loaded": 2
+    }
+  ],
+  "visual_review": "Reviewed all six mobile top/middle/end contact sheets. Images, labels, source captions and body text are readable; no horizontal clipping observed.",
+  "skill_behavior_changed": false,
+  "new_reader_or_model_evaluation": false
+}

@@ -1,5 +1,15 @@
 # 更新记录
 
+## 2026-10-21 · 单文件 HTML 案例交付（Asia/Singapore；未单独发布功能版本）
+
+- 用户要求仅分享 HTML，不再依赖图片文件夹。保留案例 v0.3.2 两篇最新完整长版，内嵌图片、样式和原本分离的研究附录；去掉指向其他本地文件的导航。
+- 每篇 HTML 独立包含正文、真实配图和样式，离线可读；参考文献外部链接仅供进一步查阅。沿用同篇文章与原素材身份，不计新案例或新媒体。
+- 本次重新检查每篇390/1280像素宽度，阻断HTTP/HTTPS显示请求后原图均加载，无横向溢出；复看手机首中尾截图，核对正文及图像保留。
+- [文件与检查记录](exports/2026-10-21-standalone-html/validation.json)；README与中英文项目说明同步入口。原文、旧版本、Skill指令及发布包保留，未开展新产品试验、跨模型测试或读者验收。
+
+The current v0.3.2 long-form cases are exported with embedded images, CSS and local research appendices. Each HTML is self-contained and tested with remote display requests blocked. This is a case-document export, not a new Skill feature release or new audience evaluation.
+
+
 ## 2026-10-20 (Asia/Singapore) · 案例 v0.3—v0.3.2 研究与修订记录
 
 - 补录本日提纲、19条研究线索、功能方向重写、文风修订及美术分析补充；各阶段原因、字数、源记录与验收边界见 [详细日志](research/revision-history/2026-10-20.md)。

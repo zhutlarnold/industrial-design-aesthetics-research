@@ -60,3 +60,10 @@ Research, user acceptance, artifact delivery, repository publication and social-
 每次功能迭代同步更新中英文目标、功能、使用方法和验证状态，在同次GitHub提交记录变更；保留旧版和实际证据。双语说明应语义一致，不让英文介绍比中文承诺更多。
 
 Update both languages when purpose, capabilities, usage or validation changes, and record the change in the same GitHub commit. Preserve earlier versions and actual evidence. The English description must not overclaim beyond the Chinese version.
+
+
+## 2026-10-21 案例交付补充 / Case delivery update
+
+新增两篇既有案例的单文件HTML交付，正文与原作图片保留，图片及样式内嵌，可独立分享和离线阅读。这是已有材料的格式转换，不增加独立案例、原创作品、产品测试或受众效果证据，不改变Skill行为。
+
+Two existing cases are provided as self-contained HTML files, preserving text and source imagery. Embedded images and styles allow offline reading and file sharing. This format conversion does not constitute additional independent cases, original artworks, product tests, audience-impact evidence or Skill behavior changes.

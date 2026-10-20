@@ -1,5 +1,15 @@
 # 工业设计美学 / Industrial Design Aesthetics
 
+## 单文件 HTML 案例 / Self-contained case HTML · 2026-10-21
+
+下载任意一个 HTML 即可单独打开或发送，图片和样式已嵌入；无需附带其他文件。本次仅转换已有案例的分享形式。
+
+- [01_工业设计_车灯_完整长版.html](exports/2026-10-21-standalone-html/01_工业设计_车灯_完整长版.html)
+- [02_工业设计_JuicySalif_完整长版.html](exports/2026-10-21-standalone-html/02_工业设计_JuicySalif_完整长版.html)
+
+Download and share each HTML file independently; images and styles are embedded. Existing case content and Skill behavior are preserved.
+
+
 ## 2026-10-20 案例审阅更新 / Case drafts for review
 
 本日案例开始按“使用任务 → 形态选择 → 对人的影响”修订，并保留易懂的美术分析。**案例 v0.3.2 为审阅稿；现有 Skill 0.1.1 尚未同步本轮方法。**
