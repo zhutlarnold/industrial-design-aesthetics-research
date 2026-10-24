@@ -1,0 +1,23 @@
+{
+  "file": "工业设计美学与功能.pdf",
+  "pages": 12,
+  "prompt_text_preserved": true,
+  "both_rule_markers_present": true,
+  "hyperlinks": [
+    "https://github.com/zhutlarnold/industrial-design-aesthetics-research/tree/main/skills/industrial-design-aesthetics",
+    "https://zhutlarnold.github.io/industrial-design-aesthetics-research/docs/use-with-ai.html",
+    "https://github.com/zhutlarnold/industrial-design-aesthetics-research/blob/main/universal-prompt.md",
+    "https://github.com/zhutlarnold/industrial-design-aesthetics-research/blob/main/CHANGELOG.md",
+    "https://www.getty.edu/education/teachers/building_lessons/formal_analysis.html",
+    "https://www.getty.edu/education/teachers/building_lessons/formal_analysis2.html",
+    "https://www.getty.edu/education/teachers/building_lessons/principles_design.pdf",
+    "https://zhutlarnold.github.io/industrial-design-aesthetics-research/docs/01-volvo-ex90.html?v=0.2",
+    "https://zhutlarnold.github.io/industrial-design-aesthetics-research/docs/01-volvo-ex90-short.html",
+    "https://github.com/zhutlarnold/industrial-design-aesthetics-research/blob/main/research/headlight-evidence.md",
+    "https://zhutlarnold.github.io/industrial-design-aesthetics-research/docs/02-juicy-salif.html?v=0.2",
+    "https://zhutlarnold.github.io/industrial-design-aesthetics-research/docs/02-juicy-salif-short.html",
+    "https://github.com/zhutlarnold/industrial-design-aesthetics-research/blob/main/research/similarity-difference.md"
+  ],
+  "sha256": "6a12741e92a0acd98296c4fe550cf9a7a5085c93faf95c0193e713b00feddb43",
+  "visual_review": "All 12 page PNGs reviewed at 1500px height. Chinese and English text, both prompt pages, tables, page breaks and footers are legible with no clipping or missing glyphs observed."
+}

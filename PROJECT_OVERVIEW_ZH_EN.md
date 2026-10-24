@@ -67,3 +67,10 @@ Update both languages when purpose, capabilities, usage or validation changes, a
 新增两篇既有案例的单文件HTML交付，正文与原作图片保留，图片及样式内嵌，可独立分享和离线阅读。这是已有材料的格式转换，不增加独立案例、原创作品、产品测试或受众效果证据，不改变Skill行为。
 
 Two existing cases are provided as self-contained HTML files, preserving text and source imagery. Embedded images and styles allow offline reading and file sharing. This format conversion does not constitute additional independent cases, original artworks, product tests, audience-impact evidence or Skill behavior changes.
+
+
+## 2026-10-25 PDF 使用资料 / PDF usage guide
+
+新增完整基础规则与两种任务提示词的12页PDF，提供三候选选择、图文DOCX/PDF交付及资料ZIP清单要求。它是使用资料汇编，不代表原生Skill升级、外部模型执行通过或读者效果验证。
+
+A 12-page PDF combines the complete base rules with two task prompts, three-candidate selection, illustrated DOCX/PDF output and a material-package inventory. It is a usage compilation, not a native Skill upgrade or evidence of external-model or reader validation.

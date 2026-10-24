@@ -1,5 +1,8 @@
 # 工业设计美学 / Industrial Design Aesthetics
 
+[Skill 与两种任务提示词 PDF 使用说明](docs/usage/2026-10-25/工业设计美学与功能.pdf) · 2026-10-25。含完整基础规则、链接、三候选选择流程及两种任务输出要求。 PDF manual with complete base rules, links and two scoped task prompts.
+
+
 ## 单文件 HTML 案例 / Self-contained case HTML · 2026-10-21
 
 下载任意一个 HTML 即可单独打开或发送，图片和样式已嵌入；无需附带其他文件。本次仅转换已有案例的分享形式。

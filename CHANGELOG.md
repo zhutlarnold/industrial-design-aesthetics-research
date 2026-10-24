@@ -1,5 +1,14 @@
 # 更新记录
 
+## 2026-10-25 · Skill 与任务提示词 PDF 汇编（Asia/Singapore；未单独发布功能版本）
+
+- 按用户要求制作 [工业设计美学与功能 PDF](docs/usage/2026-10-25/工业设计美学与功能.pdf)，含使用入口、两段任务提示词及完整基础规则0.1.1和五份方法参考。
+- 两段任务均先推荐三个产品，等用户选择；分别限定资料加分析和只提供材料，避免占位符导致对象缺失或范围冲突。正式成果要求含真实配图的DOCX与PDF；资料模式另要求ZIP和逐文件用途清单。
+- [任务提示词源记录](docs/usage/2026-10-25/task-prompts.json) 与 [本次验证](docs/usage/2026-10-25/validation.json) 同步保留。检查12页渲染、中文字体、表格、两段提示词文本完整性、规则起止标记及13处链接注释；未开展外部AI实际执行或读者测试。
+- PDF将最新任务要求与既有基础规则分开，不宣称原生Skill指令、通用提示词或已发布安装包已升级；旧文档保留。
+
+A 12-page PDF combines the complete 0.1.1 foundation with two scoped task prompts, links and usage steps. Both prompts request three candidates before the user chooses, and require illustrated DOCX/PDF delivery; the material-only mode also requests a ZIP and file-purpose inventory. This is a documentation compilation, not a new native Skill release.
+
 ## 2026-10-21 · 单文件 HTML 案例交付（Asia/Singapore；未单独发布功能版本）
 
 - 用户要求仅分享 HTML，不再依赖图片文件夹。保留案例 v0.3.2 两篇最新完整长版，内嵌图片、样式和原本分离的研究附录；去掉指向其他本地文件的导航。
